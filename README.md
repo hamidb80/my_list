@@ -10,3 +10,4 @@ my reading list
 * [ ] [software architecture patterns](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/) 📚
 * [ ] [Seven Concurrency Models in Seven Weeks](https://www.oreilly.com/library/view/seven-concurrency-models/9781941222737/) 📚
 * [ ] [40 Algorithms Every Programmer Should Know](https://learning.oreilly.com/library/view/40-algorithms-every/9781789801217/) 📚
+* [ ] [Grokking Simplicity](https://www.oreilly.com/library/view/grokking-simplicity/9781617296208/) 📚
