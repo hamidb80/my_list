@@ -1,7 +1,7 @@
 my reading list
 
 Useful pages:
-* [never work in theory] (https://neverworkintheory.org/)
+* [never work in theory](https://neverworkintheory.org/)
 
 ## done
 * [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️
