@@ -1,5 +1,8 @@
 my reading list
 
+Useful pages:
+* [never work in theory] (https://neverworkintheory.org/)
+
 ## done
 * [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️
 * [The compiler will optimize that away](https://blog.royalsloth.eu/posts/the-compiler-will-optimize-that-away/) 📰
