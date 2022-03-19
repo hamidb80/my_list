@@ -1,5 +1,8 @@
 my reading list
 
+## useful links:
+* [de google yourself](https://github.com/tycrek/degoogle)
+
 ## done
 * [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️
 * [The compiler will optimize that away](https://blog.royalsloth.eu/posts/the-compiler-will-optimize-that-away/) 📰
