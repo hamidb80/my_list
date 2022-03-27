@@ -2,6 +2,7 @@ my reading list
 
 ## useful links:
 * [de google yourself](https://github.com/tycrek/degoogle)
+* [linux sysops handbook](https://abarrak.gitbook.io/linux-sysops-handbook/)
 
 ## done
 * [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️
