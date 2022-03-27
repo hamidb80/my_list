@@ -10,6 +10,7 @@ my reading list
 * [harmful things](http://harmful.cat-v.org/software/) 📰
 * [The programming language of your dreams](https://ferale.art/article/the-programming-language-of-your-dreams-part-1) 📰
 * [python types in wild](https://neverworkintheory.org/2022/03/18/python-3-types-in-the-wild.HTML) 📰
+* [Competitive programming is useless](https://kislayverma.com/organizations/competitive-programming-is-useless/)
 
 ## To do
 * [ ] [software architecture patterns](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/) 📚
