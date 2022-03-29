@@ -3,11 +3,11 @@ my reading list
 ## useful links:
 * [de google yourself](https://github.com/tycrek/degoogle)
 * [linux sysops handbook](https://abarrak.gitbook.io/linux-sysops-handbook/)
+* [harmful things](http://harmful.cat-v.org/software/) 📰
 
 ## done
 * [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️
 * [The compiler will optimize that away](https://blog.royalsloth.eu/posts/the-compiler-will-optimize-that-away/) 📰
-* [harmful things](http://harmful.cat-v.org/software/) 📰
 * [The programming language of your dreams](https://ferale.art/article/the-programming-language-of-your-dreams-part-1) 📰
 * [python types in wild](https://neverworkintheory.org/2022/03/18/python-3-types-in-the-wild.HTML) 📰
 * [Competitive programming is useless](https://kislayverma.com/organizations/competitive-programming-is-useless/) 📰
