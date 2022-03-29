@@ -11,6 +11,7 @@ my reading list
 * [The programming language of your dreams](https://ferale.art/article/the-programming-language-of-your-dreams-part-1) 📰
 * [python types in wild](https://neverworkintheory.org/2022/03/18/python-3-types-in-the-wild.HTML) 📰
 * [Competitive programming is useless](https://kislayverma.com/organizations/competitive-programming-is-useless/) 📰
+* ["Simple Made Easy" - Rich Hickey (2011)](https://youtu.be/SxdOUGdseq4) 🎞️
 
 ## To do
 * [ ] [software architecture patterns](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/) 📚
