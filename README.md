@@ -12,7 +12,8 @@ my reading list
 * [python types in wild](https://neverworkintheory.org/2022/03/18/python-3-types-in-the-wild.HTML) 📰
 * [Competitive programming is useless](https://kislayverma.com/organizations/competitive-programming-is-useless/) 📰
 * ["Simple Made Easy" - Rich Hickey (2011)](https://youtu.be/SxdOUGdseq4) 🎞️
-* [The Joy and Agony of Haskell in Production](https://www.stephendiehl.com/posts/production.html)  📰
+* [The Joy and Agony of Haskell in Production](https://www.stephendiehl.com/posts/production.html) 📰
+* [The Open/Close Principle is Confusing and Wrong](https://naildrivin5.com/blog/2019/11/14/open-closed-principle-is-confusing-and-well-wrong.html) 📰
 
 ## To do
 * [ ] [software architecture patterns](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/) 📚
