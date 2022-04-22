@@ -14,6 +14,7 @@ my reading list
 * ["Simple Made Easy" - Rich Hickey (2011)](https://youtu.be/SxdOUGdseq4) 🎞️
 * [The Joy and Agony of Haskell in Production](https://www.stephendiehl.com/posts/production.html) 📰
 * [The Open/Close Principle is Confusing and Wrong](https://naildrivin5.com/blog/2019/11/14/open-closed-principle-is-confusing-and-well-wrong.html) 📰
+* [Big O notation: why it matters, and why it doesn’t](https://medium.com/free-code-camp/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c) 📰
 
 ## To do
 * [ ] [software architecture patterns](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/) 📚
