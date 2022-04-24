@@ -4,6 +4,7 @@ my reading list
 * [de google yourself](https://github.com/tycrek/degoogle)
 * [linux sysops handbook](https://abarrak.gitbook.io/linux-sysops-handbook/)
 * [harmful things](http://harmful.cat-v.org/software/) 📰
+* [awesome optimizations](https://github.com/kubo39/awesome-optimizations)
 
 ## done
 * [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️
