@@ -17,6 +17,7 @@ my reading list
 * [The Open/Close Principle is Confusing and Wrong](https://naildrivin5.com/blog/2019/11/14/open-closed-principle-is-confusing-and-well-wrong.html) 📰
 * [Big O notation: why it matters, and why it doesn’t](https://medium.com/free-code-camp/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c) 📰
 * [Nim Nuggets](https://www.youtube.com/watch?v=d2VRuZo2pdA) 🎞️
+* [the effort rule](https://youtu.be/zRDJcPLQvA4) 🎞️
 
 ## To do
 * [ ] [Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full) 📰
