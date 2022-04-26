@@ -19,6 +19,7 @@ my reading list
 * [Nim Nuggets](https://www.youtube.com/watch?v=d2VRuZo2pdA) 🎞️
 
 ## To do
+* [ ] [Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full) 📰
 * [ ] [software architecture patterns](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/) 📚
 * [ ] [Seven Concurrency Models in Seven Weeks](https://www.oreilly.com/library/view/seven-concurrency-models/9781941222737/) 📚
 * [ ] [40 Algorithms Every Programmer Should Know](https://learning.oreilly.com/library/view/40-algorithms-every/9781789801217/) 📚
