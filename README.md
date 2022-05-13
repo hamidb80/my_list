@@ -18,6 +18,7 @@ my reading list
 * [Big O notation: why it matters, and why it doesn’t](https://medium.com/free-code-camp/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c) 📰
 * [Nim Nuggets](https://www.youtube.com/watch?v=d2VRuZo2pdA) 🎞️
 * [the effort rule](https://youtu.be/zRDJcPLQvA4) 🎞️
+* [be the stupidest person in the room](https://www.youtube.com/watch?v=BkLzo_oNVho)
 
 ## To do
 * [ ] [Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full) 📰
