@@ -7,18 +7,18 @@ my reading list
 * [awesome optimizations](https://github.com/kubo39/awesome-optimizations)
 
 ## done
-* [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️
-* [The compiler will optimize that away](https://blog.royalsloth.eu/posts/the-compiler-will-optimize-that-away/) 📰
-* [The programming language of your dreams](https://ferale.art/article/the-programming-language-of-your-dreams-part-1) 📰
-* [python types in wild](https://neverworkintheory.org/2022/03/18/python-3-types-in-the-wild) 📰
-* [Competitive programming is useless](https://kislayverma.com/organizations/competitive-programming-is-useless/) 📰
-* ["Simple Made Easy" - Rich Hickey (2011)](https://youtu.be/SxdOUGdseq4) 🎞️
-* [The Joy and Agony of Haskell in Production](https://www.stephendiehl.com/posts/production.html) 📰
-* [The Open/Close Principle is Confusing and Wrong](https://naildrivin5.com/blog/2019/11/14/open-closed-principle-is-confusing-and-well-wrong.html) 📰
-* [Big O notation: why it matters, and why it doesn’t](https://medium.com/free-code-camp/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c) 📰
-* [Nim Nuggets](https://www.youtube.com/watch?v=d2VRuZo2pdA) 🎞️
-* [the effort rule](https://youtu.be/zRDJcPLQvA4) 🎞️
-* [be the stupidest person in the room](https://www.youtube.com/watch?v=BkLzo_oNVho) 🎞️
+* [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️ { #programming #presentation }
+* [The compiler will optimize that away](https://blog.royalsloth.eu/posts/the-compiler-will-optimize-that-away/) 📰 { #programming }
+* [The programming language of your dreams](https://ferale.art/article/the-programming-language-of-your-dreams-part-1) 📰 { #programming }
+* [python types in wild](https://neverworkintheory.org/2022/03/18/python-3-types-in-the-wild) 📰 { #programming #python }
+* [Competitive programming is useless](https://kislayverma.com/organizations/competitive-programming-is-useless/) 📰 { #life }
+* ["Simple Made Easy" - Rich Hickey (2011)](https://youtu.be/SxdOUGdseq4) 🎞️ { #programming }
+* [The Joy and Agony of Haskell in Production](https://www.stephendiehl.com/posts/production.html) 📰 { #programming }
+* [The Open/Close Principle is Confusing and Wrong](https://naildrivin5.com/blog/2019/11/14/open-closed-principle-is-confusing-and-well-wrong.html) 📰 { #programming }
+* [Big O notation: why it matters, and why it doesn’t](https://medium.com/free-code-camp/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c) 📰 { #programming }
+* [Nim Nuggets](https://www.youtube.com/watch?v=d2VRuZo2pdA) 🎞️ { #programming #nim #presentation }
+* [the effort rule](https://youtu.be/zRDJcPLQvA4) 🎞️ { #life #learning }
+* [be the stupidest person in the room](https://www.youtube.com/watch?v=BkLzo_oNVho) 🎞️ { #life }
 
 ## To do
 * [ ] [Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full) 📰
