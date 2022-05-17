@@ -19,7 +19,8 @@ my reading list
 * [Nim Nuggets](https://www.youtube.com/watch?v=d2VRuZo2pdA) 🎞️ { #programming #nim #presentation }
 * [the effort rule](https://youtu.be/zRDJcPLQvA4) 🎞️ { #life #learning }
 * [be the stupidest person in the room](https://www.youtube.com/watch?v=BkLzo_oNVho) 🎞️ { #life }
-* [Grit: the power of passion and perseverance](https://www.youtube.com/watch?v=H14bBuluwB8) 🎞️ { #life }
+* [Grit: the power of passion and perseverance](https://www.youtube.com/watch?v=H14bBuluwB8) 🎞️ { #life } 
+* [If you want to achieve your goals, don't focus on them](https://www.youtube.com/watch?v=V2PP3p4_4R8) 🎞️ { #life }
 
 ## To do
 * [ ] [Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full) 📰
