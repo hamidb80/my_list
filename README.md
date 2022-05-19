@@ -21,6 +21,7 @@ my reading list
 * [be the stupidest person in the room](https://www.youtube.com/watch?v=BkLzo_oNVho) 🎞️ { #life }
 * [Grit: the power of passion and perseverance](https://www.youtube.com/watch?v=H14bBuluwB8) 🎞️ { #life } 
 * [If you want to achieve your goals, don't focus on them](https://www.youtube.com/watch?v=V2PP3p4_4R8) 🎞️ { #life }
+* [wire cutters](https://www.youtube.com/watch?v=3Bs4LOtIuxg) { #life #animation }
 
 ## To do
 * [ ] [Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full) 📰
