@@ -19,8 +19,8 @@ my reading list
 * [Nim Nuggets](https://www.youtube.com/watch?v=d2VRuZo2pdA) 🎞️ { #programming #nim #presentation }
 * [the effort rule](https://youtu.be/zRDJcPLQvA4) 🎞️ { #life #learning }
 * [be the stupidest person in the room](https://www.youtube.com/watch?v=BkLzo_oNVho) 🎞️ { #life }
-* [Grit: the power of passion and perseverance](https://www.youtube.com/watch?v=H14bBuluwB8) 🎞️ { #life #ted } 
-* [If you want to achieve your goals, don't focus on them](https://www.youtube.com/watch?v=V2PP3p4_4R8) 🎞️ { #life # ted}
+* [Grit: the power of passion and perseverance](https://www.youtube.com/watch?v=H14bBuluwB8) 🎞️ { #life #TED } 
+* [If you want to achieve your goals, don't focus on them](https://www.youtube.com/watch?v=V2PP3p4_4R8) 🎞️ { #life #TED }
 * [wire cutters](https://www.youtube.com/watch?v=3Bs4LOtIuxg) 🎞️ { #life #animation }
 
 ## To do
