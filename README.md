@@ -1,10 +1,11 @@
 my reading list
 
 ## useful links:
-* [de google yourself](https://github.com/tycrek/degoogle)
+* [de google yourself](https://github.com/tycrek/degoogle) 
 * [linux sysops handbook](https://abarrak.gitbook.io/linux-sysops-handbook/)
-* [harmful things](http://harmful.cat-v.org/software/) 📰
+* [harmful things](http://harmful.cat-v.org/software/) 
 * [awesome optimizations](https://github.com/kubo39/awesome-optimizations)
+* [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html) 📚
 
 ## done
 * [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️ { #programming #presentation }
