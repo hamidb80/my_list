@@ -24,6 +24,7 @@ my reading list
 * [wire cutters](https://www.youtube.com/watch?v=3Bs4LOtIuxg) 🎞️ { #life #animation }
 * [everything is a center](https://ericnormand.me/issues/469) 📰 { #programming #oop #data_structure #data_driven_design }
 * [5 ways to listen better](https://www.youtube.com/watch?v=cSohjlYQI2A) 🎞️ { #life #TED }
+* [Why Nobody Cares About You In College](https://www.theodysseyonline.com/why-nobody-cares-about-college) 📰 { #life #college }
 
 ## To do
 * [ ] [Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full) 📰
