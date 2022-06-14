@@ -29,7 +29,7 @@ my reading list
 * [Productivity Is More about Mind-Management than Time-Management](https://www.jotform.com/blog/productivity-is-more-about-mind-management-than-time-management/) 📰 { #life }
 * [Why My Life is So Hard? ](https://www.youtube.com/watch?v=fJr74neE3Y8) 🎞️ { #life #quran }
 * [7 Ways to Make a Conversation With Anyone](https://youtu.be/F4Zu5ZZAG7I) 🎞️ { #life #TED }
-* [I read 100 self-help books. Here’s what I learned…](https://www.youtube.com/watch?v=S_V4CdP6aLA)
+* [I read 100 self-help books. Here’s what I learned…](https://www.youtube.com/watch?v=S_V4CdP6aLA) 🎞️ { #life }
 
 ## To do
 * [ ] [Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full) 📰
