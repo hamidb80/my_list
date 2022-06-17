@@ -31,6 +31,7 @@ my reading list
 * [7 Ways to Make a Conversation With Anyone](https://youtu.be/F4Zu5ZZAG7I) 🎞️ { #life #TED }
 * [I read 100 self-help books. Here’s what I learned…](https://www.youtube.com/watch?v=S_V4CdP6aLA) 🎞️ { #life }
 * [Advice for overthinkers](https://youtube.com/shorts/dAN_RKCkTUI?feature=share)  🎞️ { #life }
+* [Don't expect ... ](http://sms4smile.com/wise-sms-quotes/dont-expect-anything-from-anyone.html)  📰 { #life }
 
 ## To do
 * [ ] [Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full) 📰
