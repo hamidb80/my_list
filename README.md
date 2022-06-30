@@ -34,6 +34,7 @@ my reading list
 * [Don't expect ... ](http://sms4smile.com/wise-sms-quotes/dont-expect-anything-from-anyone.html)  📰 { #life }
 * [A Valuable Lesson For A Happier Life](https://www.youtube.com/watch?v=SqGRnlXplx0) 🎞️ { #life }
 * [A Clever Lesson In Self Worth](https://www.youtube.com/watch?v=XOefJFb0_T8) 🎞️ { #life }
+* [GETTING SUCCESSFUL IS NOT EASY](https://www.youtube.com/watch?v=RS_HDj2mOkk) 🎞️ { #life }
 
 ## To do
 * [ ] [Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full) 📰
