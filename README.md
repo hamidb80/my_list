@@ -35,6 +35,7 @@ my reading list
 * [A Valuable Lesson For A Happier Life](https://www.youtube.com/watch?v=SqGRnlXplx0) 🎞️ { #life }
 * [A Clever Lesson In Self Worth](https://www.youtube.com/watch?v=XOefJFb0_T8) 🎞️ { #life }
 * [GETTING SUCCESSFUL IS NOT EASY](https://www.youtube.com/watch?v=RS_HDj2mOkk) 🎞️ { #life }
+* [How to TRULY become and STAY Fluent in English](https://www.youtube.com/watch?v=qjbBeORPUA4) 🎞️ { #life #english #skill }
 
 ## To do
 * [ ] [Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full) 📰
