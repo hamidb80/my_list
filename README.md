@@ -36,7 +36,8 @@ my reading list
 * [A Clever Lesson In Self Worth](https://www.youtube.com/watch?v=XOefJFb0_T8) 🎞️ { #life }
 * [GETTING SUCCESSFUL IS NOT EASY](https://www.youtube.com/watch?v=RS_HDj2mOkk) 🎞️ { #life }
 * [How to TRULY become and STAY Fluent in English](https://www.youtube.com/watch?v=qjbBeORPUA4) 🎞️ { #life #english #skill }
-* [Effort and Attitude](https://www.youtube.com/watch?v=Dw2OvLaS5yQ) 🎞️ { #life  }
+* [Effort and Attitude](https://www.youtube.com/watch?v=Dw2OvLaS5yQ) 🎞️ { #life }
+* [stop caring so much](https://www.youtube.com/watch?v=7tnLF29C6GQ) 🎞️ { #life }
 
 ## To do
 * [ ] [Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full) 📰
