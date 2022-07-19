@@ -38,6 +38,7 @@ my reading list
 * [How to TRULY become and STAY Fluent in English](https://www.youtube.com/watch?v=qjbBeORPUA4) 🎞️ { #life #english #skill }
 * [Effort and Attitude](https://www.youtube.com/watch?v=Dw2OvLaS5yQ) 🎞️ { #life }
 * [stop caring so much](https://www.youtube.com/watch?v=7tnLF29C6GQ) 🎞️ { #life }
+* [The MOST Self-Destructive Habit | Simon Sinek](https://www.youtube.com/watch?v=jtpOYxsZj7o) 🎞️ { #life }
 
 ## To do
 * [ ] [Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full) 📰
