@@ -40,6 +40,7 @@ my reading list
 * [stop caring so much](https://www.youtube.com/watch?v=7tnLF29C6GQ) 🎞️ { #life }
 * [The MOST Self-Destructive Habit | Simon Sinek](https://www.youtube.com/watch?v=jtpOYxsZj7o) 🎞️ { #life }
 * [How To Change Your Future - One Of The Best Speeches Ever for Millennial](https://www.youtube.com/watch?v=6BOf10sXFGs)
+* [How to Stop Holding Yourself Back | Simon Sinek](https://www.youtube.com/watch?v=W05FYkqv7hM)
 
 ## To do
 * [ ] [Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full) 📰
