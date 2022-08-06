@@ -43,6 +43,7 @@ my reading list
 * [How to Stop Holding Yourself Back | Simon Sinek](https://www.youtube.com/watch?v=W05FYkqv7hM) 🎞️
 * [Getting into IIT changed my life - Sundar Pichai](https://www.youtube.com/shorts/rJjQcTMq4WI) 🎞️
 * [The hidden opportunity behind every rejection](https://www.youtube.com/watch?v=iwl-Pe0FbSg) {#TED #life} 🎞️
+* [Daily Consistency = Massive Results: THE COMPOUND EFFECT](https://www.youtube.com/watch?v=qDxDCtZ9UkE) {#life } 🎞️
 
 ## To do
 * [ ] [Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full) 📰
