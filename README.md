@@ -46,6 +46,8 @@ my reading list
 * [Daily Consistency = Massive Results: THE COMPOUND EFFECT](https://www.youtube.com/watch?v=qDxDCtZ9UkE) {#life } 🎞️
 * [Parsing JSON Really Quickly: Lessons Learned](https://www.youtube.com/watch?v=wlvKAT7SZIQ) {#programming} 🎞️
 * [The Importance of Mental Preparation](https://www.youtube.com/watch?v=JxJlWKm6DfQ) {#life } 🎞️
+### [The Power of Practice](https://www.youtube.com/watch?v=hngDhaD6UaY)
+
 
 ## To do
 * [ ] [Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full) 📰
