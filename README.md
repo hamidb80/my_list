@@ -46,13 +46,14 @@ my reading list
 * [Daily Consistency = Massive Results: THE COMPOUND EFFECT](https://www.youtube.com/watch?v=qDxDCtZ9UkE) {#life } 🎞️
 * [Parsing JSON Really Quickly: Lessons Learned](https://www.youtube.com/watch?v=wlvKAT7SZIQ) {#programming} 🎞️
 * [The Importance of Mental Preparation](https://www.youtube.com/watch?v=JxJlWKm6DfQ) {#life } 🎞️
-### [The Power of Practice](https://www.youtube.com/watch?v=hngDhaD6UaY)
+* [The Power of Practice](https://www.youtube.com/watch?v=hngDhaD6UaY) {#life } 🎞️
+* [Is GitHub Copilot a blessing, or a curse?](https://www.fast.ai/2021/07/19/copilot/) {#programming #AI #copilot}  📰
 
 
 ## To do
 * [ ] [Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full) 📰
 * [ ] [clojure for brave and true programmers](https://www.braveclojure.com/) 📚 
-* [ ] [Groking simplicity](https://www.oreilly.com/library/view/grokking-simplicity/9781617296208/) 📚
+* [x] [Groking simplicity](https://www.oreilly.com/library/view/grokking-simplicity/9781617296208/) 📚
 * [ ] [software architecture patterns](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/) 📚
 * [ ] [Seven Concurrency Models in Seven Weeks](https://www.oreilly.com/library/view/seven-concurrency-models/9781941222737/) 📚
 * [ ] [40 Algorithms Every Programmer Should Know](https://learning.oreilly.com/library/view/40-algorithms-every/9781789801217/) 📚
