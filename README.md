@@ -6,6 +6,7 @@ my reading list
 * [harmful things](http://harmful.cat-v.org/software/) 
 * [awesome optimizations](https://github.com/kubo39/awesome-optimizations)
 * [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html) 📚
+* [Practical Deep Learning](https://course.fast.ai/Lessons/lesson1.html) 📚 + 🎞️ + free!
 
 ## done
 * [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️ { #programming #presentation }
