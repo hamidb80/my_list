@@ -15,7 +15,6 @@ my reading list
 * [python types in wild](https://neverworkintheory.org/2022/03/18/python-3-types-in-the-wild) 📰 { #programming #python }
 * [Competitive programming is useless](https://kislayverma.com/organizations/competitive-programming-is-useless/) 📰 { #life }
 * ["Simple Made Easy" - Rich Hickey (2011)](https://youtu.be/SxdOUGdseq4) 🎞️ { #programming }
-* [The Joy and Agony of Haskell in Production](https://www.stephendiehl.com/posts/production.html) 📰 { #programming #haskell }
 * [The Open/Close Principle is Confusing and Wrong](https://naildrivin5.com/blog/2019/11/14/open-closed-principle-is-confusing-and-well-wrong.html) 📰 { #programming }
 * [Big O notation: why it matters, and why it doesn’t](https://medium.com/free-code-camp/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c) 📰 { #programming }
 * [Nim Nuggets](https://www.youtube.com/watch?v=d2VRuZo2pdA) 🎞️ { #programming #nim #presentation }
