@@ -48,8 +48,9 @@ my reading list
 * [Parsing JSON Really Quickly: Lessons Learned](https://www.youtube.com/watch?v=wlvKAT7SZIQ) { #programming} 🎞️
 * [The Importance of Mental Preparation](https://www.youtube.com/watch?v=JxJlWKm6DfQ) { #life } 🎞️
 * [The Power of Practice](https://www.youtube.com/watch?v=hngDhaD6UaY) { #life } 🎞️
-* [Is GitHub Copilot a blessing, or a curse?](https://www.fast.ai/2021/07/19/copilot/) {#programming #AI #copilot}  📰
+* [Is GitHub Copilot a blessing, or a curse?](https://www.fast.ai/2021/07/19/copilot/) { #programming #AI #copilot }  📰
 * [Why Modern Movies Suck - They Teach Us Awful Lessons](https://www.youtube.com/watch?v=Dnuqp4_K7ik) { #life #movies } 🎞️
+* [Developer Learning Strategies](https://jenkov.com/tutorials/dev-essentials/developer-learning-strategies.html) { #programming #life #learning }  📰
 
 
 ## To do
