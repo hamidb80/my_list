@@ -1,5 +1,3 @@
-my reading list
-
 ## useful links:
 * [de google yourself](https://github.com/tycrek/degoogle) 
 * [linux sysops handbook](https://abarrak.gitbook.io/linux-sysops-handbook/)
@@ -52,5 +50,5 @@ my reading list
 * [Developer Learning Strategies](https://jenkov.com/tutorials/dev-essentials/developer-learning-strategies.html) { #programming #life #learning }  📰
 * [Groking simplicity](https://www.oreilly.com/library/view/grokking-simplicity/9781617296208/) 📚
 
-## To do
+## TODO
 * [Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full) 📰
