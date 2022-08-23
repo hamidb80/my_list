@@ -1,4 +1,4 @@
-## useful links:
+## USEFULL LINKS:
 * [de google yourself](https://github.com/tycrek/degoogle) 
 * [linux sysops handbook](https://abarrak.gitbook.io/linux-sysops-handbook/)
 * [harmful things](http://harmful.cat-v.org/software/) 
@@ -6,7 +6,7 @@
 * [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html) 📚
 * [Practical Deep Learning](https://course.fast.ai/Lessons/lesson1.html) 📚 + 🎞️ + free!
 
-## done
+## DONE
 * [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️ { #programming #presentation }
 * [The compiler will optimize that away](https://blog.royalsloth.eu/posts/the-compiler-will-optimize-that-away/) 📰 { #programming }
 * [The programming language of your dreams](https://ferale.art/article/the-programming-language-of-your-dreams-part-1) 📰 { #programming }
