@@ -50,8 +50,7 @@ my reading list
 * [Is GitHub Copilot a blessing, or a curse?](https://www.fast.ai/2021/07/19/copilot/) { #programming #AI #copilot }  📰
 * [Why Modern Movies Suck - They Teach Us Awful Lessons](https://www.youtube.com/watch?v=Dnuqp4_K7ik) { #life #movies } 🎞️
 * [Developer Learning Strategies](https://jenkov.com/tutorials/dev-essentials/developer-learning-strategies.html) { #programming #life #learning }  📰
-
+* [Groking simplicity](https://www.oreilly.com/library/view/grokking-simplicity/9781617296208/) 📚
 
 ## To do
-* [ ] [Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full) 📰
-* [x] [Groking simplicity](https://www.oreilly.com/library/view/grokking-simplicity/9781617296208/) 📚
+* [Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full) 📰
