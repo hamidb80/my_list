@@ -49,6 +49,7 @@
 * [Why Modern Movies Suck - They Teach Us Awful Lessons](https://www.youtube.com/watch?v=Dnuqp4_K7ik) { #life #movies } 🎞️
 * [Developer Learning Strategies](https://jenkov.com/tutorials/dev-essentials/developer-learning-strategies.html) { #programming #life #learning }  📰
 * [Groking simplicity](https://www.oreilly.com/library/view/grokking-simplicity/9781617296208/) 📚
+* [Valuable lesson](https://www.youtube.com/shorts/CvagWNaGf58) { #life #youtube #shorts } 🎞️
 
 ## TODO
 * [Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full) 📰
