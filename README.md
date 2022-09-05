@@ -50,6 +50,8 @@
 * [Developer Learning Strategies](https://jenkov.com/tutorials/dev-essentials/developer-learning-strategies.html) { #programming #life #learning }  📰
 * [Groking simplicity](https://www.oreilly.com/library/view/grokking-simplicity/9781617296208/) 📚
 * [Valuable lesson](https://www.youtube.com/shorts/CvagWNaGf58) { #life #youtube #shorts } 🎞️
-* [Stop using your will power - the power of environment](https://youtu.be/vGQficynmIY)
+* [Stop using your will power - the power of environment](https://youtu.be/vGQficynmIY) { #life #youtube } 🎞️
+* [Practice makes what](https://youtu.be/kp7eHjGIM4A) { #life #youtube #shorts } 🎞️
+
 ## TODO
 * [Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full) 📰
