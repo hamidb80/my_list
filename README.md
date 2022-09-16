@@ -53,6 +53,7 @@
 * [Valuable lesson](https://www.youtube.com/shorts/CvagWNaGf58) { #life #youtube #shorts } 🎞️
 * [Stop using your will power - the power of environment](https://youtu.be/vGQficynmIY) { #life #youtube } 🎞️
 * [Practice makes what](https://youtu.be/kp7eHjGIM4A) { #life #youtube #shorts } 🎞️
+* [I Won't Watch "Squid Game" And Neither Should You](https://www.youtube.com/watch?v=GURQuk1e78Q) { #life #youtube #movies } 🎞️
 
 ## TODO
 * [Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full) 📰
