@@ -6,6 +6,7 @@
 * [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html) 📚
 * [Practical Deep Learning](https://course.fast.ai/Lessons/lesson1.html) 📚 + 🎞️ + free!
 * [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads)
+* [IEEE spectrum](https://spectrum.ieee.org/)
 
 ## DONE
 * [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️ { #programming #presentation }
