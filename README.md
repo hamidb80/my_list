@@ -55,6 +55,7 @@
 * [Practice makes what](https://youtu.be/kp7eHjGIM4A) { #life #youtube #shorts } 🎞️
 * [I Won't Watch "Squid Game" And Neither Should You](https://www.youtube.com/watch?v=GURQuk1e78Q) { #life #youtube #movies } 🎞️
 * [Stop Watching Porn.](https://www.youtube.com/shorts/M6dGvgRL5UY) { #life #youtube #shorts } 🎞️
+* [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713) 📚
 
 ## TODO
 * [Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full) 📰
