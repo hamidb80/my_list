@@ -7,6 +7,7 @@
 * [Practical Deep Learning](https://course.fast.ai/Lessons/lesson1.html) 📚 + 🎞️ + free!
 * [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads)
 * [IEEE spectrum](https://spectrum.ieee.org/)
+* [Project Nayuki](https://www.nayuki.io/)
 
 ## DONE
 * [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️ { #programming #presentation }
