@@ -10,6 +10,7 @@
 * [Project Nayuki](https://www.nayuki.io/)
 * [visualization Algorithms: university of san francisco](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 * [OpenDSA Data Structures and Algorithms Modules Collection :: Virginia Polytechnic Institute and State University](https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/index.html)
+* [everything I know](https://wiki.nikiv.dev/)
 
 ## DONE
 * [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️ { #programming #presentation }
