@@ -62,8 +62,8 @@
 * [Stop Watching Porn.](https://www.youtube.com/shorts/M6dGvgRL5UY) { #life #youtube #shorts } 🎞️
 * [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713) 📚
 * [I/O efficient algorithms course](https://coursera.org/learn/io-efficient-algorithms/) 🎞️
-* [Unfu*k Yourself: Get Out of Your Head and into Your Life](https://www.amazon.com/Unfu-Yourself-Your-Head-into/dp/0062803832) 📚
 * [Data-Oriented Programming: A link in the chain of programming paradigms](https://blog.klipse.tech/databook/2021/12/10/dop-link.html) 📰
+* [Stop Procrastinating: A Simple Guide to Hacking Laziness, Building Self Discipline, and Overcoming Procrastination](https://g.co/kgs/9Xu2N1)
 
 ## TODO
 * [Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full) 📰
