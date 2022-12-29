@@ -64,6 +64,7 @@
 * [I/O efficient algorithms course](https://coursera.org/learn/io-efficient-algorithms/) { #programming #io #course } 🎞️
 * [Data-Oriented Programming: A link in the chain of programming paradigms](https://blog.klipse.tech/databook/2021/12/10/dop-link.html) { #programming #paradigm } 📰
 * [why I write](https://www.nayuki.io/page/why-i-write) { #life } 📰
+* [Understanding](http://www.garlikov.com/teaching/Understanding.html) { #life #learning #education #understanding } 📰
 
 
 ## TODO
