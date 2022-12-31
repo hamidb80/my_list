@@ -65,9 +65,10 @@
 * [Data-Oriented Programming: A link in the chain of programming paradigms](https://blog.klipse.tech/databook/2021/12/10/dop-link.html) { #programming #paradigm } 📰
 * [why I write](https://www.nayuki.io/page/why-i-write) { #life } 📰
 * [Understanding](http://www.garlikov.com/teaching/Understanding.html) { #life #learning #education #understanding } 📰
+* [4  Important Lessons For A Successful Life](https://www.youtube.com/watch?v=xYZtQUUzdk0) { #life } 🎞️
+* [Stop Procrastinating: A Simple Guide to Hacking Laziness, Building Self Discipline, and Overcoming Procrastination](https://g.co/kgs/9Xu2N1) { #life #procrastination } 📚
 
 
 ## TODO
-* [Stop Procrastinating: A Simple Guide to Hacking Laziness, Building Self Discipline, and Overcoming Procrastination](https://g.co/kgs/9Xu2N1) { #life #procrastination } 📚
 * [Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full) { #AI } 📰
 * [How to Win Friends and Influence People] { #life #communication } 📚
