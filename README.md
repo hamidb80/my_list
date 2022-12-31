@@ -67,6 +67,7 @@
 * [Understanding](http://www.garlikov.com/teaching/Understanding.html) { #life #learning #education #understanding } 📰
 * [4  Important Lessons For A Successful Life](https://www.youtube.com/watch?v=xYZtQUUzdk0) { #life } 🎞️
 * [Stop Procrastinating: A Simple Guide to Hacking Laziness, Building Self Discipline, and Overcoming Procrastination](https://g.co/kgs/9Xu2N1) { #life #procrastination } 📚
+* [if you use your time wisely](https://www.youtube.com/watch?v=SqGRnlXplx0) { #life } 🎞️
 
 
 ## TODO
