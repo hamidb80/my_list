@@ -1,4 +1,5 @@
 # The Best Things I Keep For 'My Future Self'
+Some of them might be useful for you too.
 
 ## USEFULL LINKS:
 * [de google yourself](https://github.com/tycrek/degoogle) 
