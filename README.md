@@ -69,6 +69,7 @@
 * [Stop Procrastinating: A Simple Guide to Hacking Laziness, Building Self Discipline, and Overcoming Procrastination](https://g.co/kgs/9Xu2N1) { #life #procrastination } 📚
 * [if you use your time wisely](https://www.youtube.com/watch?v=SqGRnlXplx0) { #life } 🎞️
 * [lessons from Quora](https://idleendeavor.com/2021/08/19/x-life-lessons-i-learned-form-quora/)
+* [8 Brutal Truths You Need to Accept Before 30](https://www.sheenservices.com/news/8-brutal-truths-you-need-to-accept-before-30/)
 
 
 ## TODO
