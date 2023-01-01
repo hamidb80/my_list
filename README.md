@@ -1,3 +1,5 @@
+# The Best Things I Keep For 'My Future Self'
+
 ## USEFULL LINKS:
 * [de google yourself](https://github.com/tycrek/degoogle) 
 * [linux sysops handbook](https://abarrak.gitbook.io/linux-sysops-handbook/)
