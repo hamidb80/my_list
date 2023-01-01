@@ -78,6 +78,7 @@ Some of them might be useful for you too.
 
 
 ## Poems and Proverbs
+- The brain dismisses unfamiliars
 - 千里之行始於足下 -The journey of a thousand miles begins with a single step.
 - If you give a man a fish, you feed him for a day. If you teach a man fishing, you feed him for a life.
 - [علم چندان که بیشتر خوانی **‌*‌ چون عمل در تو نیست نادانی](https://ganjoor.net/saadi/golestan/gbab8/sh3)
