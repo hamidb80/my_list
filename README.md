@@ -84,3 +84,4 @@ Some of them might be useful for you too.
 - If you give a man a fish, you feed him for a day. If you teach a man fishing, you feed him for a life.
 - [علم چندان که بیشتر خوانی **‌*‌ چون عمل در تو نیست نادانی](https://ganjoor.net/saadi/golestan/gbab8/sh3)
 - [In other words, the secret to happiness isn’t falling in love; it’s staying in love](https://www.theatlantic.com/family/archive/2021/02/falling-in-love-wont-make-you-happy/617989/)
+- The man who asks a question is a fool for a minute, the man who does not ask is a fool for life
