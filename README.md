@@ -77,8 +77,9 @@ Some of them might be useful for you too.
 * [How to Win Friends and Influence People] { #life #communication } 📚
 
 
-## Poems and Proverbs
+## Poems/Proverbs/notes
 - The brain dismisses unfamiliars
 - 千里之行始於足下 -The journey of a thousand miles begins with a single step.
 - If you give a man a fish, you feed him for a day. If you teach a man fishing, you feed him for a life.
 - [علم چندان که بیشتر خوانی **‌*‌ چون عمل در تو نیست نادانی](https://ganjoor.net/saadi/golestan/gbab8/sh3)
+- [In other words, the secret to happiness isn’t falling in love; it’s staying in love](https://www.theatlantic.com/family/archive/2021/02/falling-in-love-wont-make-you-happy/617989/)
