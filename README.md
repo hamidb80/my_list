@@ -73,6 +73,7 @@ Some of them might be useful for you too.
 * [8 Brutal Truths You Need to Accept Before 30](https://www.sheenservices.com/news/8-brutal-truths-you-need-to-accept-before-30/)
 * [anxious for bo reason](https://www.simplypsychology.org/anxiety-for-no-reason.html)
 * [20 Reminders When You Feel Anxious](https://tinybuddha.com/blog/20-things-to-remember-when-you-feel-anxious/)
+* [design means taking things apart](https://www.youtube.com/watch?v=rI8tNMsozo0)
 
 ## TODO
 * [Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full) { #AI } 📰
