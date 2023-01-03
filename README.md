@@ -11,6 +11,7 @@ Some of them might be useful for you too.
 * [visualization Algorithms: university of san francisco](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 * [OpenDSA Data Structures and Algorithms Modules Collection :: Virginia Polytechnic Institute and State University](https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/index.html)
 * [everything I know](https://wiki.nikiv.dev/)
+* [وبلاگ یک دانشجوی دغدغه مند - مهندسی مکانیک شریف 84](http://badumchi.blogfa.com/)
 
 ## I Liked/Found Informative
 * [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️ { #programming #presentation }
