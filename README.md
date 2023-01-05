@@ -55,6 +55,7 @@ Some of them might be useful for you too.
 * [I Won't Watch "Squid Game" And Neither Should You](https://www.youtube.com/watch?v=GURQuk1e78Q) 🎞️
 * [Stop Watching Porn.](https://www.youtube.com/shorts/M6dGvgRL5UY)  🎞️
 * [Stop Procrastinating: A Simple Guide to Hacking Laziness, Building Self Discipline, and Overcoming Procrastination](https://g.co/kgs/9Xu2N1) 📚
+* [بودی معطر بدهید، معطر کنید نه اینکه عطر دیگری بگیرید](https://www.aparat.com/v/Oy5Jf)
 
 
 ### programming
