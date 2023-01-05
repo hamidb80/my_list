@@ -55,7 +55,7 @@ Some of them might be useful for you too.
 * [I Won't Watch "Squid Game" And Neither Should You](https://www.youtube.com/watch?v=GURQuk1e78Q) 🎞️
 * [Stop Watching Porn.](https://www.youtube.com/shorts/M6dGvgRL5UY)  🎞️
 * [Stop Procrastinating: A Simple Guide to Hacking Laziness, Building Self Discipline, and Overcoming Procrastination](https://g.co/kgs/9Xu2N1) 📚
-* [بودی معطر بدهید، معطر کنید نه اینکه عطر دیگری بگیرید](https://www.aparat.com/v/Oy5Jf)
+
 
 
 ### programming
@@ -94,3 +94,4 @@ Some of them might be useful for you too.
 - [علم چندان که بیشتر خوانی **‌*‌ چون عمل در تو نیست نادانی](https://ganjoor.net/saadi/golestan/gbab8/sh3)
 - [In other words, the secret to happiness isn’t falling in love; it’s staying in love](https://www.theatlantic.com/family/archive/2021/02/falling-in-love-wont-make-you-happy/617989/)
 - The man who asks a question is a fool for a minute, the man who does not ask is a fool for life
+- [بودی معطر بدهید، معطر کنید نه اینکه عطر دیگری بگیرید](https://www.aparat.com/v/Oy5Jf)
