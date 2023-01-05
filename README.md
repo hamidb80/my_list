@@ -81,8 +81,9 @@ Some of them might be useful for you too.
 ## TODO
 * [Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full) { #AI } 📰
 * [How to Win Friends and Influence People] { #life #communication } 📚
-* [https://dev.solita.fi/2021/06/01/why-avoid-an-orm.html](https://dev.solita.fi/2021/06/01/why-avoid-an-orm.html)
+* [why avoid an orm](https://dev.solita.fi/2021/06/01/why-avoid-an-orm.html)
 * [Why ORMs are slow and getting slower](https://www.edgedb.com/blog/why-orms-are-slow-and-getting-slower)
+* (Interpretation)[http://www.garlikov.com/Interpretation.html]
 
 
 ## Poems/Proverbs/notes
