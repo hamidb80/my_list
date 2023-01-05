@@ -83,7 +83,7 @@ Some of them might be useful for you too.
 * [How to Win Friends and Influence People] { #life #communication } 📚
 * [why avoid an orm](https://dev.solita.fi/2021/06/01/why-avoid-an-orm.html)
 * [Why ORMs are slow and getting slower](https://www.edgedb.com/blog/why-orms-are-slow-and-getting-slower)
-* (Interpretation)[http://www.garlikov.com/Interpretation.html]
+* [Interpretation](http://www.garlikov.com/Interpretation.html)
 
 
 ## Poems/Proverbs/notes
