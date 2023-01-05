@@ -84,6 +84,7 @@ Some of them might be useful for you too.
 * [why avoid an orm](https://dev.solita.fi/2021/06/01/why-avoid-an-orm.html)
 * [Why ORMs are slow and getting slower](https://www.edgedb.com/blog/why-orms-are-slow-and-getting-slower)
 * [Interpretation](http://www.garlikov.com/Interpretation.html)
+* [deep learning is shallow thinking](https://medium.com/@colin.fraser/deep-learning-is-shallow-thinking-74e65da8a96c)
 
 
 ## Poems/Proverbs/notes
