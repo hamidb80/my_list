@@ -94,4 +94,4 @@ Some of them might be useful for you too.
 - [علم چندان که بیشتر خوانی **‌*‌ چون عمل در تو نیست نادانی](https://ganjoor.net/saadi/golestan/gbab8/sh3)
 - [In other words, the secret to happiness isn’t falling in love; it’s staying in love](https://www.theatlantic.com/family/archive/2021/02/falling-in-love-wont-make-you-happy/617989/)
 - The man who asks a question is a fool for a minute, the man who does not ask is a fool for life
-- [بودی معطر بدهید، معطر کنید نه اینکه عطر دیگری بگیرید](https://www.aparat.com/v/Oy5Jf)
+- [بوی معطر بدهید، معطر کنید نه اینکه عطر دیگری بگیرید](https://www.aparat.com/v/Oy5Jf)
