@@ -76,6 +76,7 @@ Some of them might be useful for you too.
 * [good design is about taking things apart ...](https://www.youtube.com/watch?v=rI8tNMsozo0) 🎞️
 * [I am disappointed by dynamic typing](https://buttondown.email/hillelwayne/archive/i-am-disappointed-by-dynamic-typing/) 📰
 * [deep learning is shallow thinking](https://medium.com/@colin.fraser/deep-learning-is-shallow-thinking-74e65da8a96c) 📰
+* [https://en.wikipedia.org/wiki/Forgetting_curve](forgetting curve)
 
 ## TODO
 * [Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full) { #AI } 📰
