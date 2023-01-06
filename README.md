@@ -96,3 +96,4 @@ Some of them might be useful for you too.
 - [The man who asks a question is a fool for a minute, the man who does not ask is a fool for life](https://virgool.io/CE-SHAHED-publication/question-yxipiixkrqxb)
 - [بوی معطر بدهید، معطر کنید نه اینکه عطر دیگری بگیرید](https://www.aparat.com/v/Oy5Jf)
 - life is like riding a bicycle, to keep your balance you must keep moving
+- [Learning is not linear](https://www.youtube.com/watch?v=TQXMl4GycD0)
