@@ -98,3 +98,4 @@ Some of them might be useful for you too.
 - [بوی معطر بدهید، معطر کنید نه اینکه عطر دیگری بگیرید](https://www.aparat.com/v/Oy5Jf)
 - life is like riding a bicycle, to keep your balance you must keep moving
 - [Learning is not linear](https://www.youtube.com/watch?v=TQXMl4GycD0)
+- Lunch Is for Losers 
