@@ -2,20 +2,12 @@
 Some of them might be useful for you too.
 
 ## USEFULL LINKS:
-* [awesome optimizations](https://github.com/kubo39/awesome-optimizations)
-* [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html) 📚
-* [Practical Deep Learning](https://course.fast.ai/Lessons/lesson1.html) 📚 + 🎞️ + free!
-* [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads)
-* [IEEE spectrum](https://spectrum.ieee.org/)
-* [Project Nayuki](https://www.nayuki.io/)
-* [visualization Algorithms: university of san francisco](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
-* [OpenDSA Data Structures and Algorithms Modules Collection :: Virginia Polytechnic Institute and State University](https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/index.html)
 * [everything I know](https://wiki.nikiv.dev/)
-* [وبلاگ یک دانشجوی دغدغه مند مهندسی مکانیک شریف 84](http://badumchi.blogfa.com/1387/04/)
 
 ## I Liked/Found Informative
 ### Life
 * [Competitive programming is useless](https://kislayverma.com/organizations/competitive-programming-is-useless/) 📰 { #life }
+* [وبلاگ یک دانشجوی دغدغه مند مهندسی مکانیک شریف 84](http://badumchi.blogfa.com/1387/04/)
 * [Grit: the power of passion and perseverance](https://www.youtube.com/watch?v=H14bBuluwB8) 🎞️ { #TED } 
 * [If you want to achieve your goals, don't focus on them](https://www.youtube.com/watch?v=V2PP3p4_4R8) 🎞️ { #TED }
 * [wire cutters](https://www.youtube.com/watch?v=3Bs4LOtIuxg) 🎞️ { #life #animation }
@@ -68,6 +60,15 @@ Some of them might be useful for you too.
 * [I am disappointed by dynamic typing](https://buttondown.email/hillelwayne/archive/i-am-disappointed-by-dynamic-typing/) 📰
 * [deep learning is shallow thinking](https://medium.com/@colin.fraser/deep-learning-is-shallow-thinking-74e65da8a96c) 📰
 * [why avoid an orm](https://dev.solita.fi/2021/06/01/why-avoid-an-orm.html) + [Why ORMs are slow and getting slower](https://www.edgedb.com/blog/why-orms-are-slow-and-getting-slower) 📰
+* [awesome optimizations](https://github.com/kubo39/awesome-optimizations)
+* [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html) 📚
+* [Practical Deep Learning](https://course.fast.ai/Lessons/lesson1.html) 📚 + 🎞️ + free!
+* [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads)
+* [IEEE spectrum](https://spectrum.ieee.org/)
+* [Project Nayuki](https://www.nayuki.io/)
+* [visualization Algorithms: university of san francisco](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+* [OpenDSA Data Structures and Algorithms Modules Collection :: Virginia Polytechnic Institute and State University](https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/index.html)
+
 
 
 ## TODO
