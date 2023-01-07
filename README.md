@@ -91,3 +91,4 @@ Some of them might be useful for you too.
 - [Learning is not linear](https://www.youtube.com/watch?v=TQXMl4GycD0)
 - Lunch Is for Losers 
 - [Loneliness is about you: I’m not lonely when I’m at the gym even though I’m training by myself, but I am lonely when I go to parties, and I’m a wallflower. Why? Because loneliness is about your engagement in that moment. So if you’re feeling lonely, close your computer and go for a run; it will get you back into the moment](https://www.sheenservices.com/news/8-brutal-truths-you-need-to-accept-before-30/)
+- prepare your mood for the task before getting into it
