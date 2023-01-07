@@ -1,4 +1,4 @@
-# The Best Things I Keep For 'My Future Self'
+# The Best Things I Keep For Myself
 Some of them might be useful for you too.
 
 ## USEFULL LINKS:
@@ -16,25 +16,17 @@ Some of them might be useful for you too.
 ## I Liked/Found Informative
 ### Life
 * [Competitive programming is useless](https://kislayverma.com/organizations/competitive-programming-is-useless/) 📰 { #life }
-* [the effort rule](https://youtu.be/zRDJcPLQvA4) 🎞️ 
-* [be the stupidest person in the room](https://www.youtube.com/watch?v=BkLzo_oNVho) 🎞️ 
 * [Grit: the power of passion and perseverance](https://www.youtube.com/watch?v=H14bBuluwB8) 🎞️ { #TED } 
 * [If you want to achieve your goals, don't focus on them](https://www.youtube.com/watch?v=V2PP3p4_4R8) 🎞️ { #TED }
 * [wire cutters](https://www.youtube.com/watch?v=3Bs4LOtIuxg) 🎞️ { #life #animation }
-* [Why Nobody Cares About You In College](https://www.theodysseyonline.com/why-nobody-cares-about-college) 📰
 * [Productivity Is More about Mind-Management than Time-Management](https://www.jotform.com/blog/productivity-is-more-about-mind-management-than-time-management/) 📰
 * [Why My Life is So Hard? ](https://www.youtube.com/watch?v=fJr74neE3Y8) 🎞️ { #quran }
 * [7 Ways to Make a Conversation With Anyone](https://youtu.be/F4Zu5ZZAG7I) 🎞️ { #TED }
-* [I read 100 self-help books. Here’s what I learned…](https://www.youtube.com/watch?v=S_V4CdP6aLA) 🎞️ 
 * [Advice for overthinkers](https://youtube.com/shorts/dAN_RKCkTUI?feature=share)  🎞️ 
 * [Don't expect ... ](http://sms4smile.com/wise-sms-quotes/dont-expect-anything-from-anyone.html)  📰 
 * [A Valuable Lesson For A Happier Life](https://www.youtube.com/watch?v=SqGRnlXplx0) 🎞️ 
 * [A Clever Lesson In Self Worth](https://www.youtube.com/watch?v=XOefJFb0_T8) 🎞️ 
 * [GETTING SUCCESSFUL IS NOT EASY](https://www.youtube.com/watch?v=RS_HDj2mOkk) 🎞️ 
-* [How to TRULY become and STAY Fluent in English](https://www.youtube.com/watch?v=qjbBeORPUA4) 🎞️ 
-* [Effort and Attitude](https://www.youtube.com/watch?v=Dw2OvLaS5yQ) 🎞️ 
-* [stop caring so much](https://www.youtube.com/watch?v=7tnLF29C6GQ) 🎞️ 
-* [The MOST Self-Destructive Habit | Simon Sinek](https://www.youtube.com/watch?v=jtpOYxsZj7o) 🎞️ 
 * [The hidden opportunity behind every rejection](https://www.youtube.com/watch?v=iwl-Pe0FbSg) { #TED } 🎞️
 * [Daily Consistency = Massive Results: THE COMPOUND EFFECT](https://www.youtube.com/watch?v=qDxDCtZ9UkE) 🎞️
 * [The Power of Practice](https://www.youtube.com/watch?v=hngDhaD6UaY) 🎞️
@@ -47,7 +39,6 @@ Some of them might be useful for you too.
 * [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713) 📚
 * [if you use your time wisely](https://www.youtube.com/watch?v=SqGRnlXplx0) 🎞️
 * [lessons from Quora](https://idleendeavor.com/2021/08/19/x-life-lessons-i-learned-form-quora/)
-* [8 Brutal Truths You Need to Accept Before 30](https://www.sheenservices.com/news/8-brutal-truths-you-need-to-accept-before-30/)
 * [anxious for bo reason](https://www.simplypsychology.org/anxiety-for-no-reason.html)
 * [20 Reminders When You Feel Anxious](https://tinybuddha.com/blog/20-things-to-remember-when-you-feel-anxious/)
 * [Stop using your will power - the power of environment](https://youtu.be/vGQficynmIY) 🎞️
@@ -99,3 +90,4 @@ Some of them might be useful for you too.
 - life is like riding a bicycle, to keep your balance you must keep moving
 - [Learning is not linear](https://www.youtube.com/watch?v=TQXMl4GycD0)
 - Lunch Is for Losers 
+- [Loneliness is about you: I’m not lonely when I’m at the gym even though I’m training by myself, but I am lonely when I go to parties, and I’m a wallflower. Why? Because loneliness is about your engagement in that moment. So if you’re feeling lonely, close your computer and go for a run; it will get you back into the moment](https://www.sheenservices.com/news/8-brutal-truths-you-need-to-accept-before-30/)
