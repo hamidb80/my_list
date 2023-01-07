@@ -1,10 +1,11 @@
 # The Best Things I Keep For Myself
 Some of them might be useful for you too.
 
-## USEFULL LINKS:
-* [everything I know](https://wiki.nikiv.dev/)
 
 ## I Liked/Found Informative
+### Other:
+* [everything I know](https://wiki.nikiv.dev/)
+
 ### Life
 * [Competitive programming is useless](https://kislayverma.com/organizations/competitive-programming-is-useless/) 📰 { #life }
 * [وبلاگ یک دانشجوی دغدغه مند مهندسی مکانیک شریف 84](http://badumchi.blogfa.com/1387/04/)
