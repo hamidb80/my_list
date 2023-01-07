@@ -25,8 +25,7 @@ Some of them might be useful for you too.
 * [Advice for overthinkers](https://youtube.com/shorts/dAN_RKCkTUI?feature=share)  🎞️ 
 * [Don't expect ... ](http://sms4smile.com/wise-sms-quotes/dont-expect-anything-from-anyone.html)  📰 
 * [A Valuable Lesson For A Happier Life](https://www.youtube.com/watch?v=SqGRnlXplx0) 🎞️ 
-* [A Clever Lesson In Self Worth](https://www.youtube.com/watch?v=XOefJFb0_T8) 🎞️ 
-* [GETTING SUCCESSFUL IS NOT EASY](https://www.youtube.com/watch?v=RS_HDj2mOkk) 🎞️ 
+* [A Clever Lesson In Self Worth](https://www.youtube.com/watch?v=XOefJFb0_T8) 🎞️  
 * [The hidden opportunity behind every rejection](https://www.youtube.com/watch?v=iwl-Pe0FbSg) { #TED } 🎞️
 * [Daily Consistency = Massive Results: THE COMPOUND EFFECT](https://www.youtube.com/watch?v=qDxDCtZ9UkE) 🎞️
 * [The Power of Practice](https://www.youtube.com/watch?v=hngDhaD6UaY) 🎞️
