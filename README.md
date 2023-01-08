@@ -95,6 +95,6 @@ Some of them might be useful for you too.
 - [تو نیکویی کن و در دجله انداز *** که ایزد در بیابانت دهد باز](https://ganjoor.net/saadi/mavaez/masnaviat/sh41)
 - pumping your heart for 10 minutes gives you a better day - [simple aerobic](https://www.youtube.com/watch?v=7o39NrSwfb8) ⭐
 - FOCUS - prepare your mood for the task before getting into it ⭐
-- هر وقت میخواستی ی کاری بکنی بخاطر اینکه مطمئن بشی حوات پرت کارای دیگه نشده، اینو بخون: از کجا آمده ام آمدنم بهر چه بود ( مولانا )
+- هر وقت میخواستی ی کاری بکنی بخاطر اینکه مطمئن بشی حوات پرت کارای دیگه نشده، اینو از خودت بپرس: از کجا آمده ام آمدنم بهر چه بود؟ ( مولانا )
 - The greatest discovery of any generation is that a human being can alter his life by altering his attitude -- William James
 - فرض کن یکی از دوستای قدیمی ات رو 10 سال دیگه ببینی، وقتی که بخوای از گذشته ات توی این 10 سال تعریف کنی چی میگی؟ میگی که هر روز بی برنامه از خواب پا میشدم و توی اینترنت ول میچرخیدم و  بازیچه این و اون بودم؟ یا میگی که برنامه ریزی کردم، کارای مختلف امتحان کزدم، این تجربه هارو کسب کردم؟ دوست عزیزم، زندگی بی برنامه مثل سفر بدون مقصده - هر روز 86400 ثانیه خدا بهت هدیه میده، چیکارش میکنی؟ امیدوارم عاقلانه ازش استفاده کنی
