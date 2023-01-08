@@ -88,6 +88,7 @@ Some of them might be useful for you too.
 - life is like riding a bicycle, to keep your balance you must keep moving
 - [Learning is not linear](https://www.youtube.com/watch?v=TQXMl4GycD0)
 - Lunch Is for Losers 
+- آنچه بر خود مى پسندى براى مردم نيز بپسند و آنچه براى خود نمىپسندى براى آنها نيز نپسند! -- امام علی (ع)
 - [Loneliness is about you: I’m not lonely when I’m at the gym even though I’m training by myself, but I am lonely when I go to parties, and I’m a wallflower. Why? Because loneliness is about your engagement in that moment. So if you’re feeling lonely, close your computer and go for a run; it will get you back into the moment](https://www.sheenservices.com/news/8-brutal-truths-you-need-to-accept-before-30/)
 - [تو نیکویی کن و در دجله انداز *** که ایزد در بیابانت دهد باز](https://ganjoor.net/saadi/mavaez/masnaviat/sh41)
 - pumping your heart for 10 minutes gives you a better day - [simple aerobic](https://www.youtube.com/watch?v=7o39NrSwfb8) ⭐
