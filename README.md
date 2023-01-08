@@ -76,9 +76,6 @@ Some of them might be useful for you too.
 * [Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full) { #AI } 📰
 * [How to Win Friends and Influence People] { #life #communication } 📚
 * [Interpretation](http://www.garlikov.com/Interpretation.html) 📰
-* [the happiness equation]
-* [80/20 principle summary](https://medium.com/@aidanhornsby/notes-on-the-80-20-principle-1912002d73c5)
-
 
 
 ## Poems/Proverbs/Notes/Quotes
