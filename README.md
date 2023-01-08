@@ -87,6 +87,7 @@ Some of them might be useful for you too.
 - [بوی معطر بدهید، معطر کنید نه اینکه عطر دیگری بگیرید](https://www.aparat.com/v/Oy5Jf)
 - life is like riding a bicycle, to keep your balance you must keep moving
 - [Learning is not linear](https://www.youtube.com/watch?v=TQXMl4GycD0)
+- وَإِذۡ تَأَذَّنَ رَبُّكُمۡ لَئِن شَكَرۡتُمۡ لَأَزِيدَنَّكُمۡۖ وَلَئِن كَفَرۡتُمۡ إِنَّ عَذَابِي لَشَدِيدٞ - سوره ابراهیم آیه 7
 - Lunch Is for Losers 
 - آنچه بر خود مى پسندى براى مردم نيز بپسند و آنچه براى خود نمىپسندى براى آنها نيز نپسند! -- امام علی (ع)
 - [Loneliness is about you: I’m not lonely when I’m at the gym even though I’m training by myself, but I am lonely when I go to parties, and I’m a wallflower. Why? Because loneliness is about your engagement in that moment. So if you’re feeling lonely, close your computer and go for a run; it will get you back into the moment](https://www.sheenservices.com/news/8-brutal-truths-you-need-to-accept-before-30/)
