@@ -37,8 +37,8 @@ Some of them might be useful for you too.
 * [Practice makes what](https://youtu.be/kp7eHjGIM4A) 🎞️
 * [I Won't Watch "Squid Game" And Neither Should You](https://www.youtube.com/watch?v=GURQuk1e78Q) 🎞️
 * [Stop Watching Porn.](https://www.youtube.com/shorts/M6dGvgRL5UY)  🎞️
-* [Stop Procrastinating: A Simple Guide to Hacking Laziness, Building Self Discipline, and Overcoming Procrastination](https://g.co/kgs/9Xu2N1) 📚
-* [forgetting curve](https://en.wikipedia.org/wiki/Forgetting_curve)
+* [Stop Procrastinating: A Simple Guide to Hacking Laziness, Building Self Discipline, and Overcoming Procrastination](https://g.co/kgs/9Xu2N1) 📚 ⭐
+* [forgetting curve](https://en.wikipedia.org/wiki/Forgetting_curve) 📰
 
 
 ### programming
@@ -90,9 +90,8 @@ Some of them might be useful for you too.
 - [Learning is not linear](https://www.youtube.com/watch?v=TQXMl4GycD0)
 - Lunch Is for Losers 
 - [Loneliness is about you: I’m not lonely when I’m at the gym even though I’m training by myself, but I am lonely when I go to parties, and I’m a wallflower. Why? Because loneliness is about your engagement in that moment. So if you’re feeling lonely, close your computer and go for a run; it will get you back into the moment](https://www.sheenservices.com/news/8-brutal-truths-you-need-to-accept-before-30/)
-- prepare your mood for the task before getting into it
 - [تو نیکویی کن و در دجله انداز *** که ایزد در بیابانت دهد باز](https://ganjoor.net/saadi/mavaez/masnaviat/sh41)
-- pumping your heart for 10 minutes gives you a better day - simple aerobic 
-- FOCUS
+- pumping your heart for 10 minutes gives you a better day - simple aerobic ⭐
+- FOCUS - prepare your mood for the task before getting into it ⭐
 - The greatest discovery of any generation is that a human being can alter his life by altering his attitude -- William James
 - فرض کن یکی از دوستای قدیمی ات رو 10 سال دیگه ببینی، وقتی که بخوای از گذشته ات توی این 10 سال تعریف کنی چی میگی؟ میگی که هر روز بی برنامه از خواب پا میشدم و توی اینترنت ول میچرخیدم و  بازیچه این و اون بودم؟ یا میگی که برنامه ریزی کردم، کارای مختلف امتحان کزدم، این تجربه هارو کسب کردم؟ دوست عزیزم، زندگی بی برنامه مثل سفر بدون مقصده - هر روز 86400 ثانیه خدا بهت هدیه میده، چیکارش میکنی؟ امیدوارم عاقلانه ازش استفاده کنی
