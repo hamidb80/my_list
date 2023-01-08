@@ -97,3 +97,4 @@ Some of them might be useful for you too.
 - [تو نیکویی کن و در دجله انداز *** که ایزد در بیابانت دهد باز](https://ganjoor.net/saadi/mavaez/masnaviat/sh41)
 - pumping your heart for 10 minutes gives you a better day - simple aerobic 
 - FOCUS
+- The greatest discovery of any generation is that a human being can alter his life by altering his attitude -- William James
