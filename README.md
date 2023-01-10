@@ -79,7 +79,6 @@ Some of them might be useful for you too.
 
 
 ## Poems/Proverbs/Notes/Quotes
-- The brain DISMISSes unfamiliars - it FORGETs 
 - 千里之行始於足下 -The journey of a thousand miles begins with a single step.
 - If you give a man a fish, you feed him for a day. If you teach a man fishing, you feed him for a life.
 - [علم چندان که بیشتر خوانی **‌*‌ چون عمل در تو نیست نادانی](https://ganjoor.net/saadi/golestan/gbab8/sh3)
@@ -88,15 +87,19 @@ Some of them might be useful for you too.
 - [بوی معطر بدهید، معطر کنید نه اینکه عطر دیگری بگیرید](https://www.aparat.com/v/Oy5Jf)
 - life is like riding a bicycle, to keep your balance you must keep moving
 - [Learning is not linear](https://www.youtube.com/watch?v=TQXMl4GycD0)
-- وَإِذۡ تَأَذَّنَ رَبُّكُمۡ لَئِن شَكَرۡتُمۡ لَأَزِيدَنَّكُمۡۖ وَلَئِن كَفَرۡتُمۡ إِنَّ عَذَابِي لَشَدِيدٞ - سوره ابراهیم آیه 7
-- Lunch Is for Losers 
+- وَإِذۡ تَأَذَّنَ رَبُّكُمۡ لَئِن شَكَرۡتُمۡ لَأَزِيدَنَّكُمۡۖ وَلَئِن كَفَرۡتُمۡ إِنَّ عَذَابِي لَشَدِيدٞ - سوره ابراهیم آیه 7 
 - آنچه بر خود مى پسندى براى مردم نيز بپسند و آنچه براى خود نمىپسندى براى آنها نيز نپسند! -- امام علی (ع)
 - [Loneliness is about you: I’m not lonely when I’m at the gym even though I’m training by myself, but I am lonely when I go to parties, and I’m a wallflower. Why? Because loneliness is about your engagement in that moment. So if you’re feeling lonely, close your computer and go for a run; it will get you back into the moment](https://www.sheenservices.com/news/8-brutal-truths-you-need-to-accept-before-30/)
 - [تو نیکویی کن و در دجله انداز *** که ایزد در بیابانت دهد باز](https://ganjoor.net/saadi/mavaez/masnaviat/sh41)
-- pumping your heart for 10 minutes gives you a better day - [simple aerobic](https://www.youtube.com/watch?v=7o39NrSwfb8) ⭐
-- FOCUS - prepare your mood for the task before getting into it ⭐
 - هر وقت میخواستی ی کاری بکنی بخاطر اینکه مطمئن بشی حوات پرت کارای دیگه نشده، اینو از خودت بپرس: از کجا آمده ام آمدنم بهر چه بود؟ ( مولانا )
 - The greatest discovery of any generation is that a human being can alter his life by altering his attitude -- William James
 - فرض کن یکی از دوستای قدیمی ات رو 10 سال دیگه ببینی، وقتی که بخوای از گذشته ات توی این 10 سال تعریف کنی چی میگی؟ میگی که هر روز بی برنامه از خواب پا میشدم و توی اینترنت ول میچرخیدم و  بازیچه این و اون بودم؟ یا میگی که برنامه ریزی کردم، کارای مختلف امتحان کزدم، این تجربه هارو کسب کردم؟ دوست عزیزم، زندگی بی برنامه مثل سفر بدون مقصده - هر روز 86400 ثانیه خدا بهت هدیه میده، چیکارش میکنی؟ امیدوارم عاقلانه ازش استفاده کنی
 - [یک امروز است ما را نقد ایام *** بر او هم اعتمادی نیست تا شام](https://ganjoor.net/nezami/5ganj/khosro-shirin/sh29)
 - [و الاخره خیر و ابقی](https://quran.inoor.ir/fa/ayah/87/17/)
+
+
+## Tips
+- Lunch Is for Losers
+- The brain DISMISSes unfamiliars
+- FOCUS - prepare your mood 
+- pumping your heart for 10 minutes gives you a better day - [simple aerobic men](https://www.youtube.com/watch?v=7o39NrSwfb8) ⭐
