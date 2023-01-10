@@ -95,13 +95,13 @@ Some of them might be useful for you too.
 - فرض کن یکی از دوستای قدیمی ات رو 10 سال دیگه ببینی، وقتی که بخوای از گذشته ات توی این 10 سال تعریف کنی چی میگی؟ میگی که هر روز بی برنامه از خواب پا میشدم و توی اینترنت ول میچرخیدم و  بازیچه این و اون بودم؟ یا میگی که برنامه ریزی کردم، کارای مختلف امتحان کزدم، این تجربه هارو کسب کردم؟ دوست عزیزم، زندگی بی برنامه مثل سفر بدون مقصده - هر روز 86400 ثانیه خدا بهت هدیه میده، چیکارش میکنی؟ امیدوارم عاقلانه ازش استفاده کنی
 - [یک امروز است ما را نقد ایام *** بر او هم اعتمادی نیست تا شام](https://ganjoor.net/nezami/5ganj/khosro-shirin/sh29)
 - [و الاخره خیر و ابقی](https://quran.inoor.ir/fa/ayah/87/17/)
-- 万事开头难 - All things are difficult at the start
 - 一日之计在于晨- A day's planning is done at dawn[early morning].
 - We don’t have to be smarter than the rest. We have to be more disciplined than the rest -- Warren Buffett
 
 ## Tips
 - if you start on fire, you'll keep on fire 
 - Lunch Is for Losers 🔥
+- 万事开头难 - All things are difficult at the start
 - The brain DISMISSes unfamiliars
 - FOCUS - prepare your mood 
 - pumping your heart for 10 minutes gives you a better day - [simple aerobic men](https://www.youtube.com/watch?v=7o39NrSwfb8) 🔥
