@@ -29,7 +29,6 @@ Some of them might be useful for you too.
 * [Understanding](http://www.garlikov.com/teaching/Understanding.html) 📰
 * [4  Important Lessons For A Successful Life](https://www.youtube.com/watch?v=xYZtQUUzdk0) 🎞️
 * [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713) 📚
-* [if you use your time wisely](https://www.youtube.com/watch?v=SqGRnlXplx0) 🎞️
 * [lessons from Quora](https://idleendeavor.com/2021/08/19/x-life-lessons-i-learned-form-quora/)
 * [anxious for no reason](https://www.simplypsychology.org/anxiety-for-no-reason.html) + [20 Reminders When You Feel Anxious](https://tinybuddha.com/blog/20-things-to-remember-when-you-feel-anxious/)
 * [Stop using your will power - the power of environment](https://youtu.be/vGQficynmIY) 🎞️
@@ -103,3 +102,4 @@ Some of them might be useful for you too.
 - The brain DISMISSes unfamiliars
 - FOCUS - prepare your mood 
 - pumping your heart for 10 minutes gives you a better day - [simple aerobic men](https://www.youtube.com/watch?v=7o39NrSwfb8) 🔥
+* [put important things first](https://www.youtube.com/watch?v=SqGRnlXplx0) 🎞️
