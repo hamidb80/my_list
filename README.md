@@ -97,6 +97,7 @@ Some of them might be useful for you too.
 - [و الاخره خیر و ابقی](https://quran.inoor.ir/fa/ayah/87/17/)
 - 万事开头难 - All things are difficult at the start
 - 一日之计在于晨- A day's planning is done at dawn[early morning].
+- We don’t have to be smarter than the rest. We have to be more disciplined than the rest -- Warren Buffett
 
 ## Tips
 - if you start on fire, you'll keep on fire 
