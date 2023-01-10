@@ -96,6 +96,7 @@ Some of them might be useful for you too.
 - [یک امروز است ما را نقد ایام *** بر او هم اعتمادی نیست تا شام](https://ganjoor.net/nezami/5ganj/khosro-shirin/sh29)
 - [و الاخره خیر و ابقی](https://quran.inoor.ir/fa/ayah/87/17/)
 - 万事开头难 - All things are difficult at the start
+- 一日之计在于晨- A day's planning is done at dawn[early morning].
 
 ## Tips
 - if you start on fire, you'll keep on fire 
