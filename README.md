@@ -21,7 +21,7 @@ Some of them might be useful for you too.
 * [A Clever Lesson In Self Worth](https://www.youtube.com/watch?v=XOefJFb0_T8) 🎞️  
 * [The hidden opportunity behind every rejection](https://www.youtube.com/watch?v=iwl-Pe0FbSg) { #TED } 🎞️
 * [Daily Consistency = Massive Results: THE COMPOUND EFFECT](https://www.youtube.com/watch?v=qDxDCtZ9UkE) 🎞️
-* [The Power of Practice](https://www.youtube.com/watch?v=hngDhaD6UaY) 🎞️
+* [The Power of Practice: Lessons From 10 Years of Pushups ](https://www.youtube.com/watch?v=hngDhaD6UaY) 🎞️
 * [Valuable lesson](https://www.youtube.com/shorts/CvagWNaGf58) 🎞️
 * [Why Modern Movies Suck - They Teach Us Awful Lessons](https://www.youtube.com/watch?v=Dnuqp4_K7ik)  🎞️
 * [The Importance of Mental Preparation](https://www.youtube.com/watch?v=JxJlWKm6DfQ) 🎞️
