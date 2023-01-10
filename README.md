@@ -96,10 +96,10 @@ Some of them might be useful for you too.
 - فرض کن یکی از دوستای قدیمی ات رو 10 سال دیگه ببینی، وقتی که بخوای از گذشته ات توی این 10 سال تعریف کنی چی میگی؟ میگی که هر روز بی برنامه از خواب پا میشدم و توی اینترنت ول میچرخیدم و  بازیچه این و اون بودم؟ یا میگی که برنامه ریزی کردم، کارای مختلف امتحان کزدم، این تجربه هارو کسب کردم؟ دوست عزیزم، زندگی بی برنامه مثل سفر بدون مقصده - هر روز 86400 ثانیه خدا بهت هدیه میده، چیکارش میکنی؟ امیدوارم عاقلانه ازش استفاده کنی
 - [یک امروز است ما را نقد ایام *** بر او هم اعتمادی نیست تا شام](https://ganjoor.net/nezami/5ganj/khosro-shirin/sh29)
 - [و الاخره خیر و ابقی](https://quran.inoor.ir/fa/ayah/87/17/)
-
+- if you start on fire, you'll keep on fire 
 
 ## Tips
-- Lunch Is for Losers
+- Lunch Is for Losers 🔥
 - The brain DISMISSes unfamiliars
 - FOCUS - prepare your mood 
-- pumping your heart for 10 minutes gives you a better day - [simple aerobic men](https://www.youtube.com/watch?v=7o39NrSwfb8) ⭐
+- pumping your heart for 10 minutes gives you a better day - [simple aerobic men](https://www.youtube.com/watch?v=7o39NrSwfb8) 🔥
