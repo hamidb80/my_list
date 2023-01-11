@@ -113,3 +113,4 @@ Some of them might be useful for you too.
 - pumping your heart for 10 minutes gives you a better day - [simple aerobic men](https://www.youtube.com/watch?v=7o39NrSwfb8) 🔥
 - [put important things first](https://www.youtube.com/watch?v=SqGRnlXplx0) 🎞️
 - start slow, take it easy at first 🔥
+- be thankful every day and start a new life
