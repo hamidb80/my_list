@@ -79,7 +79,7 @@ Some of them might be useful for you too.
 * [finish What You Start] 📚 ⭐
 * [How to Win Friends and Influence People] { #life #communication } 📚
 * [Interpretation](http://www.garlikov.com/Interpretation.html) 📰
-
+* [The faster you unlearn OOP, the better for you and your software](https://dpc.pw/the-faster-you-unlearn-oop-the-better-for-you-and-your-software) 📰
 
 ## Poems/Proverbs/Notes/Quotes
 - 千里之行始於足下 -The journey of a thousand miles begins with a single step.
