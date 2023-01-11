@@ -5,6 +5,7 @@ Some of them might be useful for you too.
 ## I Liked/Found Informative
 ### Other:
 * [everything I know](https://wiki.nikiv.dev/)
+* [dpc's devlog](https://dpc.pw/)
 
 ### Life
 * [Competitive programming is useless](https://kislayverma.com/organizations/competitive-programming-is-useless/) 📰 { #life }
