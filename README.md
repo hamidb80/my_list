@@ -3,7 +3,7 @@ Some of them might be useful for you too.
 
 
 ## I Liked/Found Informative
-### Blog:
+### Blog
 * [everything I know](https://wiki.nikiv.dev/)
 * [dpc's devlog](https://dpc.pw/)
 * [pmuche's devlog](https://peterme.net/)
