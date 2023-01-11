@@ -43,6 +43,7 @@ Some of them might be useful for you too.
 * [forgetting curve](https://en.wikipedia.org/wiki/Forgetting_curve) 📰
 * [Why So Many CEOs Are Engineers](https://www.youtube.com/watch?v=BEbVddOm2X8) 🎞️ ⭐
 * [What is more important than time? ](https://www.quora.com/What-is-more-important-than-time)
+* [دل مشغولی دنیا](http://player.iranseda.ir/islam-player/?g=371613&w=45&VALID=TRUE) 🎵
 
 ### programming
 * [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️
