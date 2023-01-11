@@ -37,7 +37,7 @@ Some of them might be useful for you too.
 * [Stop Watching Porn.](https://www.youtube.com/shorts/M6dGvgRL5UY)  🎞️
 * [Stop Procrastinating: A Simple Guide to Hacking Laziness, Building Self Discipline, and Overcoming Procrastination](https://g.co/kgs/9Xu2N1) 📚 ⭐
 * [forgetting curve](https://en.wikipedia.org/wiki/Forgetting_curve) 📰
-
+* [Why So Many CEOs Are Engineers](https://www.youtube.com/watch?v=BEbVddOm2X8) 🎞️
 
 ### programming
 * [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️
