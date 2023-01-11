@@ -3,10 +3,11 @@ Some of them might be useful for you too.
 
 
 ## I Liked/Found Informative
-### Other:
+### blogs:
 * [everything I know](https://wiki.nikiv.dev/)
 * [dpc's devlog](https://dpc.pw/)
 * [pmuche's devlog](https://peterme.net/)
+* [Project Nayuki](https://www.nayuki.io/)
 
 ### Life
 * [Competitive programming is useless](https://kislayverma.com/organizations/competitive-programming-is-useless/) 📰 { #life }
@@ -66,10 +67,9 @@ Some of them might be useful for you too.
 * [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html) 📚
 * [Practical Deep Learning](https://course.fast.ai/Lessons/lesson1.html) 📚 + 🎞️ + free!
 * [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads)
-* [IEEE spectrum](https://spectrum.ieee.org/)
-* [Project Nayuki](https://www.nayuki.io/)
 * [visualization Algorithms: university of san francisco](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
-* [OpenDSA Data Structures and Algorithms Modules Collection :: Virginia Polytechnic Institute and State University](https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/index.html)
+* [OpenDSA Data Structures and Algorithms Modules Collection :: Virginia Polytechnic Institute and State University](https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/index.html) 📰
+* [mocking is not good](https://dpc.pw/my-case-against-mocking-frameworks) 📰
 
 
 
