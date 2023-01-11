@@ -8,6 +8,7 @@ Some of them might be useful for you too.
 * [dpc's devlog](https://dpc.pw/)
 * [pmuche's devlog](https://peterme.net/)
 * [Project Nayuki](https://www.nayuki.io/)
+* [Ted Kaminski's devblog](https://www.tedinski.com/)
 
 ### Life
 * [Competitive programming is useless](https://kislayverma.com/organizations/competitive-programming-is-useless/) 📰 { #life }
