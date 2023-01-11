@@ -114,3 +114,4 @@ Some of them might be useful for you too.
 - [put important things first](https://www.youtube.com/watch?v=SqGRnlXplx0) 🎞️
 - start slow, take it easy at first 🔥
 - be thankful every day and start a new life
+- واسه خودت دل مشغولی درست نکن - باعث میشه نتپنی تمرکز کنی
