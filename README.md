@@ -115,3 +115,4 @@ Some of them might be useful for you too.
 - be thankful every day and start a new life
 - واسه خودت دل مشغولی درست نکن - باعث میشه نتپنی تمرکز کنی
 - هر وقت میخواستی ی کاری بکنی بخاطر اینکه مطمئن بشی حوات پرت کارای دیگه نشده، اینو از خودت بپرس: از کجا آمده ام آمدنم بهر چه بود؟ ( مولانا )
+- Slow progress is better than nothing at all!! - chinese proverb
