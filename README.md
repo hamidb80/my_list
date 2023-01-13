@@ -81,7 +81,6 @@ Some of them might be useful for you too.
 * [finish What You Start] 📚 ⭐
 * [How to Win Friends and Influence People] { #life #communication } 📚
 * [Interpretation](http://www.garlikov.com/Interpretation.html) 📰
-* [Managing Your Emotions, Instead of Your Emotions Managing You ] 📚 
 * [the POWER of Understanding PEOPLE ] 📚
 
 ## Poems/Proverbs/Notes/Quotes
