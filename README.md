@@ -44,6 +44,7 @@ Some of them might be useful for you too.
 * [Why So Many CEOs Are Engineers](https://www.youtube.com/watch?v=BEbVddOm2X8) 🎞️ ⭐
 * [What is more important than time? ](https://www.quora.com/What-is-more-important-than-time)
 * [دل مشغولی دنیا](http://player.iranseda.ir/islam-player/?g=371613&w=45&VALID=TRUE) 🎵
+* [interviewing James Dyson | the creator of new generation of vacuum cleaners ](https://www.youtube.com/watch?v=akKoWePxYPU)
 
 ### programming
 * [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️
