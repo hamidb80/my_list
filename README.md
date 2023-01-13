@@ -39,7 +39,7 @@ Some of them might be useful for you too.
 * [Practice makes what](https://youtu.be/kp7eHjGIM4A) 🎞️
 * [I Won't Watch "Squid Game" And Neither Should You](https://www.youtube.com/watch?v=GURQuk1e78Q) 🎞️
 * [Stop Watching Porn.](https://www.youtube.com/shorts/M6dGvgRL5UY)  🎞️
-* [Stop Procrastinating: A Simple Guide to Hacking Laziness, Building Self Discipline, and Overcoming Procrastination](https://g.co/kgs/9Xu2N1) 📚 ⭐
+* [Stop Procrastinating: A Simple Guide to Hacking Laziness, Building Self Discipline, and Overcoming Procrastination](https://g.co/kgs/9Xu2N1) 📚 ⭐ + [finish What You Start] 📚 ⭐
 * [forgetting curve](https://en.wikipedia.org/wiki/Forgetting_curve) 📰
 * [Why So Many CEOs Are Engineers](https://www.youtube.com/watch?v=BEbVddOm2X8) 🎞️ ⭐
 * [What is more important than time? ](https://www.quora.com/What-is-more-important-than-time)
@@ -78,7 +78,6 @@ Some of them might be useful for you too.
 
 ## TODO
 * [Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full) { #AI } 📰
-* [finish What You Start] 📚 ⭐
 * [How to Win Friends and Influence People] { #life #communication } 📚
 * [Interpretation](http://www.garlikov.com/Interpretation.html) 📰
 * [the POWER of Understanding PEOPLE ] 📚
