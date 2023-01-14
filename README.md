@@ -117,3 +117,4 @@ Some of them might be useful for you too.
 - هر وقت میخواستی ی کاری بکنی بخاطر اینکه مطمئن بشی حوات پرت کارای دیگه نشده، اینو از خودت بپرس: از کجا آمده ام آمدنم بهر چه بود؟ ( مولانا )
 - Slow progress is better than nothing at all!! - chinese proverb
 - attention game on morning | to wakeup brain 🔥
+- create a Do-It-Later-If-I-Had-Time list
