@@ -103,7 +103,7 @@ Some of them might be useful for you too.
 - We don’t have to be smarter than the rest. We have to be more disciplined than the rest -- Warren Buffett
 - Curiosity is more important than knowledge - Albert Einstein
 
-## Tips
+## Tips / What I Review Everyday
 - if you start on fire, you'll keep on fire 
 - Lunch Is for Losers 🔥
 - 万事开头难 - All things are difficult at the start
