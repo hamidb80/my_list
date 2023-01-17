@@ -119,3 +119,4 @@ Some of them might be useful for you too.
 - Slow progress is better than nothing at all!! - chinese proverb
 - attention game on morning | to wakeup brain 🔥
 - create a Do-It-Later-If-I-Had-Time list
+- Self-discipline starts with the mastery of your thoughts. If you don’t control what you think, you can’t control what you do
