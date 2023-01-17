@@ -102,6 +102,7 @@ Some of them might be useful for you too.
 - 一日之计在于晨- A day's planning is done at dawn[early morning].
 - We don’t have to be smarter than the rest. We have to be more disciplined than the rest -- Warren Buffett
 - Curiosity is more important than knowledge - Albert Einstein
+- [Day by day, what you choose, what you think, and what you do is who you become](https://www.beachbodyondemand.com/blog/self-discipline-quotes)
 
 ## Tips / What I Review Everyday
 - if you start on fire, you'll keep on fire 
