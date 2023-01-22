@@ -4,6 +4,7 @@ Some of them might be useful for you too.
 
 ## I Liked/Found Informative
 ### Blog
+* [حدیث گرافی](https://hadisgraph.com/)
 * [everything I know](https://wiki.nikiv.dev/)
 * [dpc's devlog](https://dpc.pw/)
 * [pmuche's devlog](https://peterme.net/)
@@ -81,6 +82,7 @@ Some of them might be useful for you too.
 * [How to Win Friends and Influence People] { #life #communication } 📚
 * [Interpretation](http://www.garlikov.com/Interpretation.html) 📰
 * [the POWER of Understanding PEOPLE ] 📚
+* [bezier curve in computer graphics](https://pomax.github.io/bezierinfo/}
 
 ## Poems/Proverbs/Notes/Quotes
 - 千里之行始於足下 -The journey of a thousand miles begins with a single step.
@@ -119,4 +121,5 @@ Some of them might be useful for you too.
 - Slow progress is better than nothing at all!! - chinese proverb
 - attention game on morning | to wakeup brain 🔥
 - create a Do-It-Later-If-I-Had-Time list
+- [لَئِن شَكَرۡتُمۡ لَأَزِيدَنَّكُمۡۖ وَلَئِن كَفَرۡتُمۡ إِنَّ عَذَابِي لَشَدِيد](https://hadisgraph.com/wp-content/uploads/photo_2018-04-06_17-11-02.jpg)
 - Self-discipline starts with the mastery of your thoughts. If you don’t control what you think, you can’t control what you do
