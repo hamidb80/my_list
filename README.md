@@ -123,3 +123,4 @@ Some of them might be useful for you too.
 - create a Do-It-Later-If-I-Had-Time list
 - [لَئِن شَكَرۡتُمۡ لَأَزِيدَنَّكُمۡۖ وَلَئِن كَفَرۡتُمۡ إِنَّ عَذَابِي لَشَدِيد](https://hadisgraph.com/wp-content/uploads/photo_2018-04-06_17-11-02.jpg)
 - Self-discipline starts with the mastery of your thoughts. If you don’t control what you think, you can’t control what you do
+- [از دی که گذشت هیچ از او یاد مکن ** فردا که نیامده‌ست فریاد مکن ** بر نامده و گذشته بنیاد مکن ** حالی خوش باش و عمر بر باد مکن](https://ganjoor.net/khayyam/robaee/sh136)
