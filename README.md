@@ -48,6 +48,7 @@ Some of them might be useful for you too.
 * [دل مشغولی دنیا](http://player.iranseda.ir/islam-player/?g=371613&w=45&VALID=TRUE) 🎵
 * [interviewing James Dyson | the creator of new generation of vacuum cleaners ](https://www.youtube.com/watch?v=akKoWePxYPU)
 * [Students often focus on superficial features instead of the underlying principles, concepts, or theories ](https://www.cmu.edu/teaching/solveproblem/strat-cantapply/cantapply-02.html) 📰
+* [Why TEACHERS Can't TEACH And LEARNERS Can't LEARN](https://www.linkedin.com/pulse/why-teachers-cant-teach-learners-learn-bisikay-ayedun)
 
 ### programming
 * [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️
