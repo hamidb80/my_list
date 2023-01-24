@@ -46,6 +46,7 @@ Some of them might be useful for you too.
 * [What is more important than time? ](https://www.quora.com/What-is-more-important-than-time)
 * [دل مشغولی دنیا](http://player.iranseda.ir/islam-player/?g=371613&w=45&VALID=TRUE) 🎵
 * [interviewing James Dyson | the creator of new generation of vacuum cleaners ](https://www.youtube.com/watch?v=akKoWePxYPU)
+* [Students often focus on superficial features instead of the underlying principles, concepts, or theories ](https://www.cmu.edu/teaching/solveproblem/strat-cantapply/cantapply-02.html) 📰
 
 ### programming
 * [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️
