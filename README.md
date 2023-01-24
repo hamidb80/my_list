@@ -83,7 +83,8 @@ Some of them might be useful for you too.
 * [How to Win Friends and Influence People] { #life #communication } 📚
 * [Interpretation](http://www.garlikov.com/Interpretation.html) 📰
 * [the POWER of Understanding PEOPLE ] 📚
-* [bezier curve in computer graphics](https://pomax.github.io/bezierinfo/}
+* [bezier curve in computer graphics](https://pomax.github.io/bezierinfo/} 📰
+* [beyond college rankings](https://admissions.yale.edu/beyond-college-rankings) 📰
 
 ## Poems/Proverbs/Notes/Quotes
 - 千里之行始於足下 -The journey of a thousand miles begins with a single step.
