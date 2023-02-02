@@ -112,6 +112,7 @@ Some of them might be useful for you too.
 - Curiosity is more important than knowledge - Albert Einstein
 - [Day by day, what you choose, what you think, and what you do is who you become](https://www.beachbodyondemand.com/blog/self-discipline-quotes)
 - [ از خوى مردمان نادان اين است كه در هر حالى زود خشم مى گيرند. - امام علی ع](https://ahlolbait.com/article/5276/%D8%AE%D8%B4%D9%85-%D8%A7%D8%B2-%D9%86%D8%B8%D8%B1-%D8%A7%D8%AD%D8%A7%D8%AF%DB%8C%D8%AB)
+- [خلايق نان خورهاى خدايند . خداوند روزهاى آنها را ضمانت و خوراكشان را مقدّر كرده استhttps://ahlolbait.com/article/4545/%D8%B1%D9%88%D8%B2%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%AD%D8%A7%D8%AF%DB%8C%D8%AB#d ]()
 
 ## Tips / What I Review Everyday
 - if you start on fire, you'll keep on fire 
