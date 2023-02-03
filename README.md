@@ -51,6 +51,7 @@ Some of them might be useful for you too.
 * [Why TEACHERS Can't TEACH And LEARNERS Can't LEARN](https://www.linkedin.com/pulse/why-teachers-cant-teach-learners-learn-bisikay-ayedun)
 * [مستند دیوانگی :: رتبه 2 کنکور ورودی 97 به کامپیوتر دانشگاه شریف میرود اما...](https://telewebion.com/episode/0x28f5a92)
 * [Alternatives to a Degree to Prove Yourself in Deep Learning](https://www.fast.ai/posts/2017-04-06-alternatives.html)
+* [زندگی تلخه ولی چرا همینجا بمونی؟ نمی ارزه یکم سختی بدی ولی پیشرفت کنی؟](https://virgool.io/@niethanx/%D8%A7%D9%81%D8%B3%D8%A7%D9%86%D9%87%D9%87%D8%A7%DB%8C-%D8%A7%D8%B1%D8%B4%D8%AF-%D9%86%D8%B1%D9%85%D8%A7%D9%81%D8%B2%D8%A7%D8%B1-xv2bsyyeljhl)
 
 ### programming
 * [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️
