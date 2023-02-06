@@ -53,6 +53,7 @@ Some of them might be useful for you too.
 * [Alternatives to a Degree to Prove Yourself in Deep Learning](https://www.fast.ai/posts/2017-04-06-alternatives.html)
 * [زندگی تلخه ولی چرا همینجا بمونی؟ نمی ارزه یکم سختی بدی ولی پیشرفت کنی؟](https://virgool.io/@niethanx/%D8%A7%D9%81%D8%B3%D8%A7%D9%86%D9%87%D9%87%D8%A7%DB%8C-%D8%A7%D8%B1%D8%B4%D8%AF-%D9%86%D8%B1%D9%85%D8%A7%D9%81%D8%B2%D8%A7%D8%B1-xv2bsyyeljhl)
 
+
 ### programming
 * [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️
 * [The compiler will optimize that away](https://blog.royalsloth.eu/posts/the-compiler-will-optimize-that-away/) 📰 
@@ -81,7 +82,7 @@ Some of them might be useful for you too.
 * [OpenDSA Data Structures and Algorithms Modules Collection :: Virginia Polytechnic Institute and State University](https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/index.html) 📰
 * [mocking is not good](https://dpc.pw/my-case-against-mocking-frameworks) 📰
 * [The faster you unlearn OOP, the better for you and your software](https://dpc.pw/the-faster-you-unlearn-oop-the-better-for-you-and-your-software) 📰
-
+* [دانشگاه یک ماشین تولید مدرک بی فایده است](https://www.asriran.com/fa/news/812419/%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87-%D9%87%D8%A7-%D8%AF%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D9%82%DB%8C%D9%82%D8%A7-%D8%A8%D9%87-%DA%86%D9%87-%D8%AF%D8%B1%D8%AF%DB%8C-%D9%85%DB%8C-%D8%AE%D9%88%D8%B1%D9%86%D8%AF)
 
 ## TODO
 * [Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full) { #AI } 📰
