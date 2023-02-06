@@ -33,7 +33,7 @@ Some of them might be useful for you too.
 * [The Importance of Mental Preparation](https://www.youtube.com/watch?v=JxJlWKm6DfQ) 🎞️
 * [why I write](https://www.nayuki.io/page/why-i-write) 📰
 * [Understanding](http://www.garlikov.com/teaching/Understanding.html) 📰
-* [4  Important Lessons For A Successful Life](https://www.youtube.com/watch?v=xYZtQUUzdk0) 🎞️
+* [4  Important Lessons For A Successful Life](https://www.youtube.com/watch?v=xYZtQUUzdk0) 🎞️ + [do the real thing](https://www.scotthyoung.com/blog/2020/05/04/do-the-real-thing/) 📰
 * [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713) 📚
 * [lessons from Quora](https://idleendeavor.com/2021/08/19/x-life-lessons-i-learned-form-quora/)
 * [anxious for no reason](https://www.simplypsychology.org/anxiety-for-no-reason.html) + [20 Reminders When You Feel Anxious](https://tinybuddha.com/blog/20-things-to-remember-when-you-feel-anxious/)
