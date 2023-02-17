@@ -56,6 +56,7 @@ Some of them might be useful for you too.
 * [زندگی تلخه ولی چرا همینجا بمونی؟ نمی ارزه یکم سختی بدی ولی پیشرفت کنی؟](https://virgool.io/@niethanx/%D8%A7%D9%81%D8%B3%D8%A7%D9%86%D9%87%D9%87%D8%A7%DB%8C-%D8%A7%D8%B1%D8%B4%D8%AF-%D9%86%D8%B1%D9%85%D8%A7%D9%81%D8%B2%D8%A7%D8%B1-xv2bsyyeljhl)
 * [دانشگاه یک ماشین تولید مدرک بی فایده است](https://www.asriran.com/fa/news/812419/%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87-%D9%87%D8%A7-%D8%AF%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D9%82%DB%8C%D9%82%D8%A7-%D8%A8%D9%87-%DA%86%D9%87-%D8%AF%D8%B1%D8%AF%DB%8C-%D9%85%DB%8C-%D8%AE%D9%88%D8%B1%D9%86%D8%AF)
 * [InshaAllah](https://www.aparat.com/v/Jy78R) 🎵
+* [Why Braintraining Games are Silly](https://www.scotthyoung.com/blog/2014/04/01/why-braintrainin/) 📰 
 
 
 ### programming
