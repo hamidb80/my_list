@@ -57,7 +57,7 @@ Some of them might be useful for you too.
 * [دانشگاه یک ماشین تولید مدرک بی فایده است](https://www.asriran.com/fa/news/812419/%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87-%D9%87%D8%A7-%D8%AF%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D9%82%DB%8C%D9%82%D8%A7-%D8%A8%D9%87-%DA%86%D9%87-%D8%AF%D8%B1%D8%AF%DB%8C-%D9%85%DB%8C-%D8%AE%D9%88%D8%B1%D9%86%D8%AF)
 * [InshaAllah](https://www.aparat.com/v/Jy78R) 🎵
 * [Why Braintraining Games are Silly](https://www.scotthyoung.com/blog/2014/04/01/why-braintrainin/) 📰 
-
+* [The problem isn’t that life is unfair – it’s your broken idea of fairness](https://oliveremberton.com/2014/the-problem-isnt-that-life-is-unfair-its-your-broken-idea-of-fairness/)  📰 
 
 ### programming
 * [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️
