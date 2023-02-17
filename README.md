@@ -12,6 +12,7 @@ Some of them might be useful for you too.
 * [Ted Kaminski's devblog](https://www.tedinski.com/)
 * [rosseta code](https://rosettacode.org/)
 * [Laurence Tratt](https://tratt.net/)
+* [Scotth Young](https://www.scotthyoung.com/)
 
 ### Life
 * [Competitive programming is useless](https://kislayverma.com/organizations/competitive-programming-is-useless/) 📰 { #life }
