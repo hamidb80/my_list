@@ -122,6 +122,7 @@ Some of them might be useful for you too.
 - [ از خوى مردمان نادان اين است كه در هر حالى زود خشم مى گيرند. - امام علی ع](https://ahlolbait.com/article/5276/%D8%AE%D8%B4%D9%85-%D8%A7%D8%B2-%D9%86%D8%B8%D8%B1-%D8%A7%D8%AD%D8%A7%D8%AF%DB%8C%D8%AB)
 - [خلايق نان خورهاى خدايند . خداوند روزهاى آنها را ضمانت و خوراكشان را مقدّر كرده است .](https://ahlolbait.com/article/4545/%D8%B1%D9%88%D8%B2%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%AD%D8%A7%D8%AF%DB%8C%D8%AB#d)
 - [Success is a journey, not a destination. It means that what matters is not necessarily where you are at the end, but what you accomplish while you are trying along the way.](https://www.linkedin.com/pulse/20141110151738-301337375-have-you-ever-heard-that-success-is-a-journey-not-a-destination)
+- [life is what you choose it to be](https://web.archive.org/web/20211028132012/https://oliveremberton.com/2013/how-to-master-your-life/)
 
 ## Tips / What I Review Everyday
 - if you start on fire, you'll keep on fire 
