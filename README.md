@@ -58,6 +58,7 @@ Some of them might be useful for you too.
 * [InshaAllah](https://www.aparat.com/v/Jy78R) 🎵
 * [Why Braintraining Games are Silly](https://www.scotthyoung.com/blog/2014/04/01/why-braintrainin/) 📰 
 * [The problem isn’t that life is unfair – it’s your broken idea of fairness](https://oliveremberton.com/2014/the-problem-isnt-that-life-is-unfair-its-your-broken-idea-of-fairness/)  📰 
+* [the quest for deeper understanding](https://clic.gse.harvard.edu/files/clic/files/ctl8.4_p_the_quest_for_deeper_understanding.pdf)
 
 ### programming
 * [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️
