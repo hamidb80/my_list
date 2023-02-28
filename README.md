@@ -124,6 +124,7 @@ Some of them might be useful for you too.
 - [خلايق نان خورهاى خدايند . خداوند روزهاى آنها را ضمانت و خوراكشان را مقدّر كرده است .](https://ahlolbait.com/article/4545/%D8%B1%D9%88%D8%B2%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%AD%D8%A7%D8%AF%DB%8C%D8%AB#d)
 - [Success is a journey, not a destination. It means that what matters is not necessarily where you are at the end, but what you accomplish while you are trying along the way.](https://www.linkedin.com/pulse/20141110151738-301337375-have-you-ever-heard-that-success-is-a-journey-not-a-destination)
 - [life is what you choose it to be](https://web.archive.org/web/20211028132012/https://oliveremberton.com/2013/how-to-master-your-life/)
+- [Progress is impossible without change, and those who cannot change their minds cannot change anything - Bernard Shaw ](https://philosiblog.com/2013/11/14/progress-is-impossible-without-change-and-those-who-cannot-change-their-minds-cannot-change-anything/)
 
 ## Tips / What I Review Everyday
 - if you start on fire, you'll keep on fire 
