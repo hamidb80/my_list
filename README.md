@@ -60,6 +60,7 @@ Some of them might be useful for you too.
 * [The problem isn’t that life is unfair – it’s your broken idea of fairness](https://oliveremberton.com/2014/the-problem-isnt-that-life-is-unfair-its-your-broken-idea-of-fairness/)  📰 
 * [the quest for deeper understanding](https://clic.gse.harvard.edu/files/clic/files/ctl8.4_p_the_quest_for_deeper_understanding.pdf)
 * [You Don’t Find Your Purpose — You Build It](https://hbr.org/2017/10/you-dont-find-your-purpose-you-build-it#:~:text=In%20achieving%20professional%20purpose%2C%20most,work%20can%20possess%20remarkable%20purpose.)
+* [the art of being stubborn](https://www.linkedin.com/pulse/art-being-stubborn-fe-husaint?trk=pulse-article_more-articles_related-content-card)
 
 ### programming
 * [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️
