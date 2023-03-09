@@ -100,10 +100,9 @@ Some of them might be useful for you too.
 ## TODO
 * [How to Win Friends and Influence People] { #life #communication } 📚
 * [Interpretation](http://www.garlikov.com/Interpretation.html) 📰
-* [the POWER of Understanding PEOPLE ] 📚
+* [the POWER of Understanding PEOPLE ] 📚 
+* [the happiness equation] 📚
 * [bezier curve in computer graphics](https://pomax.github.io/bezierinfo/) 📰
-* [beyond college rankings](https://admissions.yale.edu/beyond-college-rankings) 📰
-* [Practice Made Perfect: The 10 Keys to Optimize Improvement](https://www.scotthyoung.com/blog/2022/08/02/practice-made-perfect/?utm_source=Bibblio&utm_medium=Article_footer&utm_campaign=Related_content)
 
 ## Poems/Proverbs/Notes/Quotes
 - 千里之行始於足下 -The journey of a thousand miles begins with a single step.
