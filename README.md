@@ -90,8 +90,10 @@ Some of them might be useful for you too.
 * [OpenDSA Data Structures and Algorithms Modules Collection :: Virginia Polytechnic Institute and State University](https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/index.html) 📰
 * [mocking is not good](https://dpc.pw/my-case-against-mocking-frameworks) 📰
 * [The faster you unlearn OOP, the better for you and your software](https://dpc.pw/the-faster-you-unlearn-oop-the-better-for-you-and-your-software) 📰
+
 * [orgpad: clojure](https://orgpad.com/o/D6TrZny7tNhYqWygzax7Wx) + [gtaph editor](https://app.dgrm.net/) {#graph #intro}
 * [Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full) { #AI } 📰
+* [In other words, Nim beats python at python's own strengths](https://news.ycombinator.com/item?id=9050114)
 
 ## TODO
 * [How to Win Friends and Influence People] { #life #communication } 📚
