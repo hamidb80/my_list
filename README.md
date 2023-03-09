@@ -61,6 +61,7 @@ Some of them might be useful for you too.
 * [the quest for deeper understanding](https://clic.gse.harvard.edu/files/clic/files/ctl8.4_p_the_quest_for_deeper_understanding.pdf)
 * [You Don’t Find Your Purpose — You Build It](https://hbr.org/2017/10/you-dont-find-your-purpose-you-build-it#:~:text=In%20achieving%20professional%20purpose%2C%20most,work%20can%20possess%20remarkable%20purpose.)
 * [the art of being stubborn](https://www.linkedin.com/pulse/art-being-stubborn-fe-husaint?trk=pulse-article_more-articles_related-content-card)
+* [Life is simply too precious](http://paulgraham.com/vb.html)
 
 ### programming
 * [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️
