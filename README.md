@@ -96,6 +96,7 @@ Some of them might be useful for you too.
 * [orgpad: clojure](https://orgpad.com/o/D6TrZny7tNhYqWygzax7Wx) + [gtaph editor](https://app.dgrm.net/) {#graph #intro}
 * [Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full) { #AI } 📰
 * [In other words, Nim beats python at python's own strengths](https://news.ycombinator.com/item?id=9050114) + [I learned 7 different programming languages so you don't have to](https://mode80.github.io/7-langs-in-12-months.html) 📰
+* [Competitive Programming !== Real World Programming](https://www.freecodecamp.org/news/mythbusting-competitive-programming/)
 
 ## TODO
 * [How to Win Friends and Influence People] { #life #communication } 📚
