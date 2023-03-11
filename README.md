@@ -48,7 +48,6 @@ Some of them might be useful for you too.
 * [Why So Many CEOs Are Engineers](https://www.youtube.com/watch?v=BEbVddOm2X8) 🎞️ ⭐
 * [What is more important than time? ](https://www.quora.com/What-is-more-important-than-time)
 * [دل مشغولی دنیا](http://player.iranseda.ir/islam-player/?g=371613&w=45&VALID=TRUE) 🎵
-* [interviewing James Dyson | the creator of new generation of vacuum cleaners ](https://www.youtube.com/watch?v=akKoWePxYPU)
 * [Students often focus on superficial features instead of the underlying principles, concepts, or theories ](https://www.cmu.edu/teaching/solveproblem/strat-cantapply/cantapply-02.html) 📰
 * [Why TEACHERS Can't TEACH And LEARNERS Can't LEARN](https://www.linkedin.com/pulse/why-teachers-cant-teach-learners-learn-bisikay-ayedun)
 * [مستند دیوانگی :: رتبه 2 کنکور ورودی 97 به کامپیوتر دانشگاه شریف میرود اما...](https://telewebion.com/episode/0x28f5a92)
