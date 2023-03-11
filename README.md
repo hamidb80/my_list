@@ -134,6 +134,7 @@ Some of them might be useful for you too.
 - [زندگی ساختنی است،،،، نه ماندنی. بمان برای ساختن نساز برای ماندن](http://roboca96.blogfa.com/post/287)
 
 ## Tips / What I Review Everyday
+- We sink or swim in our choices
 - if you start on fire, you'll keep on fire 
 - Lunch Is for Losers 🔥
 - 万事开头难 - All things are difficult at the start
