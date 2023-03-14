@@ -62,6 +62,7 @@ Some of them might be useful for you too.
 * [the art of being stubborn](https://www.linkedin.com/pulse/art-being-stubborn-fe-husaint?trk=pulse-article_more-articles_related-content-card)
 * [Life is simply too precious](http://paulgraham.com/vb.html)
 * [Do things, tell people](http://carl.flax.ie/dothingstellpeople.html)
+* [7 Must-Know Strategies to Learn Anything Faster](https://www.scotthyoung.com/blog/oakley/) 📚 { #learning }
 
 ### programming
 * [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️
