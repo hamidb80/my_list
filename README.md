@@ -133,6 +133,7 @@ Some of them might be useful for you too.
 - [life is what you choose it to be](https://web.archive.org/web/20211028132012/https://oliveremberton.com/2013/how-to-master-your-life/)
 - [Progress is impossible without change, and those who cannot change their minds cannot change anything - Bernard Shaw ](https://philosiblog.com/2013/11/14/progress-is-impossible-without-change-and-those-who-cannot-change-their-minds-cannot-change-anything/)
 - [زندگی ساختنی است،،،، نه ماندنی. بمان برای ساختن نساز برای ماندن](http://roboca96.blogfa.com/post/287)
+- if you judge people, you have no time to love them
 
 ## Tips / What I Review Everyday
 - We sink or swim in our choices
