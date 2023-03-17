@@ -134,6 +134,7 @@ Some of them might be useful for you too.
 - [Progress is impossible without change, and those who cannot change their minds cannot change anything - Bernard Shaw ](https://philosiblog.com/2013/11/14/progress-is-impossible-without-change-and-those-who-cannot-change-their-minds-cannot-change-anything/)
 - [زندگی ساختنی است،،،، نه ماندنی. بمان برای ساختن نساز برای ماندن](http://roboca96.blogfa.com/post/287)
 - if you judge people, you have no time to love them
+- حضرت محمد (ص) : محبت خدا بر کسی که خشمگین شود پس بردباری نماید واجب است.
 
 ## Tips / What I Review Everyday
 - We sink or swim in our choices
