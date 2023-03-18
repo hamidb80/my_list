@@ -67,6 +67,7 @@ Some of them might be useful for you too.
 * [Don’t waste the good days](https://seths.blog/2021/12/dont-waste-the-good-days/)
 * [because our tomorrow is the direct result of the way we spend our resources today](https://seths.blog/2023/03/choosing-your-problems/)
 * [Build new One](https://seths.blog/2023/01/build-a-new-one/)
+* [life is not short](https://dkb.show/post/life-is-not-short)
 
 ### programming
 * [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️
