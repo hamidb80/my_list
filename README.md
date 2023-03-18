@@ -13,7 +13,7 @@ Some of them might be useful for you too.
 * [rosseta code](https://rosettacode.org/)
 * [Laurence Tratt](https://tratt.net/)
 * [Scotth Young](https://www.scotthyoung.com/blog/articles/)
-* [paulgraham](http://paulgraham.com/articles.html)
+* [Paul Graham; founder of Y combinator](http://paulgraham.com/articles.html)
 
 ### Life
 * [Competitive programming is useless](https://kislayverma.com/organizations/competitive-programming-is-useless/) 📰 { #life }
