@@ -63,6 +63,7 @@ Some of them might be useful for you too.
 * [Life is simply too precious](http://paulgraham.com/vb.html)
 * [Do things, tell people](http://carl.flax.ie/dothingstellpeople.html)
 * [7 Must-Know Strategies to Learn Anything Faster](https://www.scotthyoung.com/blog/oakley/) 📚 { #learning }
+* [make learning your hobby, rather than pointless entertainment - hours lost watching sports/ TV shows,..](https://www.reddit.com/r/fatFIRE/comments/snoet1/what_advice_would_you_give_your_younger_self/)
 
 ### programming
 * [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️
