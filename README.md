@@ -65,6 +65,7 @@ Some of them might be useful for you too.
 * [7 Must-Know Strategies to Learn Anything Faster](https://www.scotthyoung.com/blog/oakley/) 📚 { #learning }
 * [make learning your hobby, rather than pointless entertainment - hours lost watching sports/ TV shows,..](https://www.reddit.com/r/fatFIRE/comments/snoet1/what_advice_would_you_give_your_younger_self/)
 * [Technology begins by making old work easier, but then it requires that new work be better.](https://seths.blog/2022/12/attention-trust-and-gpt3/)
+* [Don’t waste the good days](https://seths.blog/2021/12/dont-waste-the-good-days/)
 
 ### programming
 * [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️
