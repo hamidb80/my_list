@@ -16,7 +16,6 @@ Some of them might be useful for you too.
 
 ### Life
 * [Competitive programming is useless](https://kislayverma.com/organizations/competitive-programming-is-useless/) 📰 { #life }
-* [وبلاگ یک دانشجوی دغدغه مند مهندسی مکانیک شریف 84](http://badumchi.blogfa.com/1387/04/)
 * [Grit: the power of passion and perseverance](https://www.youtube.com/watch?v=H14bBuluwB8) 🎞️ { #TED } 
 * [If you want to achieve your goals, don't focus on them](https://www.youtube.com/watch?v=V2PP3p4_4R8) 🎞️ { #TED }
 * [wire cutters](https://www.youtube.com/watch?v=3Bs4LOtIuxg) 🎞️ { #life #animation }
