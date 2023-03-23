@@ -114,6 +114,7 @@ Some of them might be useful for you too.
 * [bezier curve in computer graphics](https://pomax.github.io/bezierinfo/) 📰
 * [software engineering - pressman]
 * [the magic of gratitude]
+* [The complete FUN TO IMAGINE with Richard Feynman](https://youtu.be/P1ww1IXRfTA)
 
 ## Poems/Proverbs/Notes/Quotes
 - 千里之行始於足下 -The journey of a thousand miles begins with a single step.
