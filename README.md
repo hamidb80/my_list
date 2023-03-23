@@ -14,6 +14,7 @@ Some of them might be useful for you too.
 * [Laurence Tratt](https://tratt.net/)
 * [Scotth Young](https://www.scotthyoung.com/blog/articles/)
 * [Paul Graham; founder of Y combinator](http://paulgraham.com/articles.html)
+* [Jay Alammar: Visualizing machine learning one concept at a time](http://jalammar.github.io/)
 
 ### Life
 * [Competitive programming is useless](https://kislayverma.com/organizations/competitive-programming-is-useless/) 📰 { #life }
