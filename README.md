@@ -17,48 +17,37 @@ Some of them might be useful for you too.
 * [Jay Alammar: Visualizing machine learning one concept at a time](http://jalammar.github.io/)
 
 ### Life
-* [Competitive programming is useless](https://kislayverma.com/organizations/competitive-programming-is-useless/) 📰 { #life }
+
 * [Grit: the power of passion and perseverance](https://www.youtube.com/watch?v=H14bBuluwB8) 🎞️ { #TED } 
 * [If you want to achieve your goals, don't focus on them](https://www.youtube.com/watch?v=V2PP3p4_4R8) 🎞️ { #TED }
 * [wire cutters](https://www.youtube.com/watch?v=3Bs4LOtIuxg) 🎞️ { #life #animation }
 * [Productivity Is More about Mind-Management than Time-Management](https://www.jotform.com/blog/productivity-is-more-about-mind-management-than-time-management/) 📰
 * [Why My Life is So Hard? ](https://www.youtube.com/watch?v=fJr74neE3Y8) 🎞️ { #quran }
-* [7 Ways to Make a Conversation With Anyone](https://youtu.be/F4Zu5ZZAG7I) 🎞️ { #TED }
-* [Advice for overthinkers](https://youtube.com/shorts/dAN_RKCkTUI?feature=share)  🎞️ 
+
 * [Don't expect ... ](http://sms4smile.com/wise-sms-quotes/dont-expect-anything-from-anyone.html)  📰 
 * [A Valuable Lesson For A Happier Life](https://www.youtube.com/watch?v=SqGRnlXplx0) 🎞️ 
-* [A Clever Lesson In Self Worth](https://www.youtube.com/watch?v=XOefJFb0_T8) 🎞️  
 * [The hidden opportunity behind every rejection](https://www.youtube.com/watch?v=iwl-Pe0FbSg) { #TED } 🎞️
 * [Daily Consistency = Massive Results: THE COMPOUND EFFECT](https://www.youtube.com/watch?v=qDxDCtZ9UkE) 🎞️
 * [The Power of Practice: Lessons From 10 Years of Pushups ](https://www.youtube.com/watch?v=hngDhaD6UaY) 🎞️ ⭐
 * [Valuable lesson](https://www.youtube.com/shorts/CvagWNaGf58) 🎞️
 * [Why Modern Movies Suck - They Teach Us Awful Lessons](https://www.youtube.com/watch?v=Dnuqp4_K7ik)  🎞️
-* [The Importance of Mental Preparation](https://www.youtube.com/watch?v=JxJlWKm6DfQ) 🎞️
 * [why I write](https://www.nayuki.io/page/why-i-write) 📰
 * [Understanding](http://www.garlikov.com/teaching/Understanding.html) 📰
 * [4  Important Lessons For A Successful Life](https://www.youtube.com/watch?v=xYZtQUUzdk0) 🎞️ + [do the real thing](https://www.scotthyoung.com/blog/2020/05/04/do-the-real-thing/) 📰
 * [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713) 📚
 * [lessons from Quora](https://idleendeavor.com/2021/08/19/x-life-lessons-i-learned-form-quora/)
-* [anxious for no reason](https://www.simplypsychology.org/anxiety-for-no-reason.html) + [20 Reminders When You Feel Anxious](https://tinybuddha.com/blog/20-things-to-remember-when-you-feel-anxious/)
 * [Stop using your will power - the power of environment](https://youtu.be/vGQficynmIY) 🎞️
 * [Practice makes what](https://youtu.be/kp7eHjGIM4A) 🎞️
 * [I Won't Watch "Squid Game" And Neither Should You](https://www.youtube.com/watch?v=GURQuk1e78Q) 🎞️
 * [Stop Watching Porn.](https://www.youtube.com/shorts/M6dGvgRL5UY)  🎞️
 * [Stop Procrastinating: A Simple Guide to Hacking Laziness, Building Self Discipline, and Overcoming Procrastination](https://g.co/kgs/9Xu2N1) 📚 ⭐ + [finish What You Start] 📚 ⭐
-* [forgetting curve](https://en.wikipedia.org/wiki/Forgetting_curve) 📰
 * [Why So Many CEOs Are Engineers](https://www.youtube.com/watch?v=BEbVddOm2X8) 🎞️ ⭐
 * [What is more important than time? ](https://www.quora.com/What-is-more-important-than-time)
 * [دل مشغولی دنیا](http://player.iranseda.ir/islam-player/?g=371613&w=45&VALID=TRUE) 🎵
-* [Students often focus on superficial features instead of the underlying principles, concepts, or theories ](https://www.cmu.edu/teaching/solveproblem/strat-cantapply/cantapply-02.html) 📰
-* [Why TEACHERS Can't TEACH And LEARNERS Can't LEARN](https://www.linkedin.com/pulse/why-teachers-cant-teach-learners-learn-bisikay-ayedun)
 * [مستند دیوانگی :: رتبه 2 کنکور ورودی 97 به کامپیوتر دانشگاه شریف میرود اما...](https://telewebion.com/episode/0x28f5a92)
-* [Alternatives to a Degree to Prove Yourself in Deep Learning](https://www.fast.ai/posts/2017-04-06-alternatives.html)
 * [زندگی تلخه ولی چرا همینجا بمونی؟ نمی ارزه یکم سختی بدی ولی پیشرفت کنی؟](https://virgool.io/@niethanx/%D8%A7%D9%81%D8%B3%D8%A7%D9%86%D9%87%D9%87%D8%A7%DB%8C-%D8%A7%D8%B1%D8%B4%D8%AF-%D9%86%D8%B1%D9%85%D8%A7%D9%81%D8%B2%D8%A7%D8%B1-xv2bsyyeljhl)
-* [دانشگاه یک ماشین تولید مدرک بی فایده است](https://www.asriran.com/fa/news/812419/%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87-%D9%87%D8%A7-%D8%AF%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D9%82%DB%8C%D9%82%D8%A7-%D8%A8%D9%87-%DA%86%D9%87-%D8%AF%D8%B1%D8%AF%DB%8C-%D9%85%DB%8C-%D8%AE%D9%88%D8%B1%D9%86%D8%AF)
-* [InshaAllah](https://www.aparat.com/v/Jy78R) 🎵
 * [Why Braintraining Games are Silly](https://www.scotthyoung.com/blog/2014/04/01/why-braintrainin/) 📰 
 * [The problem isn’t that life is unfair – it’s your broken idea of fairness](https://oliveremberton.com/2014/the-problem-isnt-that-life-is-unfair-its-your-broken-idea-of-fairness/)  📰 
-* [the quest for deeper understanding](https://clic.gse.harvard.edu/files/clic/files/ctl8.4_p_the_quest_for_deeper_understanding.pdf)
 * [You Don’t Find Your Purpose — You Build It](https://hbr.org/2017/10/you-dont-find-your-purpose-you-build-it#:~:text=In%20achieving%20professional%20purpose%2C%20most,work%20can%20possess%20remarkable%20purpose.)
 * [the art of being stubborn](https://www.linkedin.com/pulse/art-being-stubborn-fe-husaint?trk=pulse-article_more-articles_related-content-card)
 * [Life is simply too precious](http://paulgraham.com/vb.html)
