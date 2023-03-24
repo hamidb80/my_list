@@ -71,6 +71,7 @@ Some of them might be useful for you too.
 * [Build new One](https://seths.blog/2023/01/build-a-new-one/)
 * [life is not short](https://dkb.show/post/life-is-not-short) ⌛⭐
 * [be good](http://paulgraham.com/good.html)
+* [آیا من هم چادری هستم؟](https://vrgl.ir/CaPzA)
 
 ### programming
 * [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️
