@@ -59,7 +59,7 @@ Some of them might be useful for you too.
 * [life is not short](https://dkb.show/post/life-is-not-short) + [زندگی کوتاه نیست](https://virgool.io/@hamidb80/life-is-not-short-zgwqadrxkdo2) ⌛⭐
 * [be good](http://paulgraham.com/good.html)
 * [آیا من هم چادری هستم؟](https://vrgl.ir/CaPzA)
-* [You're Searching for Success, But Have You Really Failed? | Nouman Ali Khan](https://www.youtube.com/watch?v=RImqVK8UNGM)
+* [You're Searching for Success, But Have You Really Failed? | Nouman Ali Khan](https://www.youtube.com/watch?v=RImqVK8UNGM) {#youtube #quran} 🎥
 
 ### programming
 * [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️
@@ -89,17 +89,16 @@ Some of them might be useful for you too.
 * [OpenDSA Data Structures and Algorithms Modules Collection :: Virginia Polytechnic Institute and State University](https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/index.html) 📰
 * [mocking is not good](https://dpc.pw/my-case-against-mocking-frameworks) 📰
 * [The faster you unlearn OOP, the better for you and your software](https://dpc.pw/the-faster-you-unlearn-oop-the-better-for-you-and-your-software) 📰
-
 * [orgpad: clojure](https://orgpad.com/o/D6TrZny7tNhYqWygzax7Wx) + [gtaph editor](https://app.dgrm.net/) {#graph #intro}
 * [Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full) { #AI } 📰
 * [In other words, Nim beats python at python's own strengths](https://news.ycombinator.com/item?id=9050114) + [I learned 7 different programming languages so you don't have to](https://mode80.github.io/7-langs-in-12-months.html) 📰
 * [Competitive Programming !== Real World Programming](https://www.freecodecamp.org/news/mythbusting-competitive-programming/)
 * [Bing AI can't be trusted](https://dkb.blog/p/bing-ai-cant-be-trusted)
+
 ## TODO
 * [How to Win Friends and Influence People] { #life #communication } 📚
 * [Interpretation](http://www.garlikov.com/Interpretation.html) 📰
 * [the POWER of Understanding PEOPLE ] 📚 
-
 * [bezier curve in computer graphics](https://pomax.github.io/bezierinfo/) 📰
 * [software engineering - pressman]
 * [the magic of gratitude]
