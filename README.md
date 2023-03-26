@@ -134,7 +134,7 @@ Some of them might be useful for you too.
 - if you judge people, you have no time to love them
 - حضرت محمد (ص) : محبت خدا بر کسی که خشمگین شود پس بردباری نماید واجب است.
 
-## Tips / What I Review Everyday
+## Human is forgetful, He needs to remember himself ...
 - We sink or swim in our choices
 - if you start on fire, you'll keep on fire 
 - Lunch Is for Losers 🔥
