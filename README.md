@@ -17,13 +17,11 @@ Some of them might be useful for you too.
 * [Jay Alammar: Visualizing machine learning one concept at a time](http://jalammar.github.io/)
 
 ### Life
-
 * [Grit: the power of passion and perseverance](https://www.youtube.com/watch?v=H14bBuluwB8) 🎞️ { #TED } 
 * [If you want to achieve your goals, don't focus on them](https://www.youtube.com/watch?v=V2PP3p4_4R8) 🎞️ { #TED }
 * [wire cutters](https://www.youtube.com/watch?v=3Bs4LOtIuxg) 🎞️ { #life #animation }
 * [Productivity Is More about Mind-Management than Time-Management](https://www.jotform.com/blog/productivity-is-more-about-mind-management-than-time-management/) 📰
 * [Why My Life is So Hard? ](https://www.youtube.com/watch?v=fJr74neE3Y8) 🎞️ { #quran }
-
 * [Don't expect ... ](http://sms4smile.com/wise-sms-quotes/dont-expect-anything-from-anyone.html)  📰 
 * [A Valuable Lesson For A Happier Life](https://www.youtube.com/watch?v=SqGRnlXplx0) 🎞️ 
 * [The hidden opportunity behind every rejection](https://www.youtube.com/watch?v=iwl-Pe0FbSg) { #TED } 🎞️
@@ -61,6 +59,7 @@ Some of them might be useful for you too.
 * [life is not short](https://dkb.show/post/life-is-not-short) + [زندگی کوتاه نیست](https://virgool.io/@hamidb80/life-is-not-short-zgwqadrxkdo2) ⌛⭐
 * [be good](http://paulgraham.com/good.html)
 * [آیا من هم چادری هستم؟](https://vrgl.ir/CaPzA)
+* [You're Searching for Success, But Have You Really Failed? | Nouman Ali Khan](https://www.youtube.com/watch?v=RImqVK8UNGM)
 
 ### programming
 * [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️
