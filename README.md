@@ -4,7 +4,7 @@ Some of them might be useful for you too.
 
 ## I Liked/Found Informative
 ### Blog
-* [حدیث گرافی](https://hadisgraph.com/)
+* [حدیث گرافی](https://hadisgraph.com/) + [حدیث نگاری](hadisnegari.com)
 * [everything I know](https://wiki.nikiv.dev/)
 * [dpc's devlog](https://dpc.pw/)
 * [pmuche's devlog](https://peterme.net/)
@@ -58,7 +58,7 @@ Some of them might be useful for you too.
 * [Don’t waste the good days](https://seths.blog/2021/12/dont-waste-the-good-days/)
 * [because our tomorrow is the direct result of the way we spend our resources today](https://seths.blog/2023/03/choosing-your-problems/)
 * [Build new One](https://seths.blog/2023/01/build-a-new-one/)
-* [life is not short](https://dkb.show/post/life-is-not-short) ⌛⭐
+* [life is not short](https://dkb.show/post/life-is-not-short) + [زندگی کوتاه نیست](https://virgool.io/@hamidb80/life-is-not-short-zgwqadrxkdo2) ⌛⭐
 * [be good](http://paulgraham.com/good.html)
 * [آیا من هم چادری هستم؟](https://vrgl.ir/CaPzA)
 
