@@ -60,6 +60,7 @@ Some of them might be useful for you too.
 * [be good](http://paulgraham.com/good.html)
 * [آیا من هم چادری هستم؟](https://vrgl.ir/CaPzA)
 * [You're Searching for Success, But Have You Really Failed? | Nouman Ali Khan](https://www.youtube.com/watch?v=RImqVK8UNGM) {#youtube #quran} 🎥
+* [make learning a habit](https://hbr.org/tip/2016/03/make-learning-a-habit)
 
 ### programming
 * [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️
