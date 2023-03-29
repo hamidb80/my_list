@@ -15,6 +15,7 @@ Some of them might be useful for you too.
 * [Scotth Young](https://www.scotthyoung.com/blog/articles/)
 * [Paul Graham; founder of Y combinator](http://paulgraham.com/articles.html)
 * [Jay Alammar: Visualizing machine learning one concept at a time](http://jalammar.github.io/)
+* [narimiran](https://narimiran.github.io/)
 
 ### Life
 * [Grit: the power of passion and perseverance](https://www.youtube.com/watch?v=H14bBuluwB8) 🎞️ { #TED } 
