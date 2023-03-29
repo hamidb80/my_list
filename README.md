@@ -62,6 +62,7 @@ Some of them might be useful for you too.
 * [You're Searching for Success, But Have You Really Failed? | Nouman Ali Khan](https://www.youtube.com/watch?v=RImqVK8UNGM) {#youtube #quran} 🎥
 * [make learning a habit](https://hbr.org/tip/2016/03/make-learning-a-habit)
 * [What Good Is Learning If You Don’t Remember It? 🧠](https://files.eric.ed.gov/fulltext/EJ1055665.pdf) + [Making It Stick: Memorable Strategies to Enhance Learning](https://www.readingrockets.org/article/making-it-stick-memorable-strategies-enhance-learning) + [Learning is Remembering](https://saveall.ai/blog/learning-is-remembering) {#learning }
+* [I felt that the music business was very empty, ... In the west, all the songs are about love and getting hurt, but there’s more to life than that](https://www.wearemin.co/blog/maher-zain-my-music-is-a-message-of-islam/)
 
 ### programming
 * [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️
