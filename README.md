@@ -163,6 +163,7 @@ Some of them might be useful for you too.
 - track what you're after
 - I feared pain until I learned it's necessary for growth
 - Time will pass anyway...
+- make room for your activities
 
 ## Images
 ![two sons of an alcoholic father](./two-sons-of-an-alcoholic-father.webp)
