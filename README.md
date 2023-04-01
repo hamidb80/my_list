@@ -51,6 +51,35 @@ Some of them might be useful for you too.
 * [the art of being stubborn](https://www.linkedin.com/pulse/art-being-stubborn-fe-husaint?trk=pulse-article_more-articles_related-content-card)
 * [Life is simply too precious](http://paulgraham.com/vb.html)
 * [Do things, tell people](http://carl.flax.ie/dothingstellpeople.html)
+- 千里之行始於足下 -The journey of a thousand miles begins with a single step.
+- 授人以鱼不如授人以渔 - If you give a man a fish, you feed him for a day. If you teach a man fishing, you feed him for a life.
+- [علم چندان که بیشتر خوانی **‌*‌ چون عمل در تو نیست نادانی](https://ganjoor.net/saadi/golestan/gbab8/sh3)
+- [In other words, the secret to happiness isn’t falling in love; it’s staying in love](https://www.theatlantic.com/family/archive/2021/02/falling-in-love-wont-make-you-happy/617989/)
+- [The man who asks a question is a fool for a minute, the man who does not ask is a fool for life](https://virgool.io/CE-SHAHED-publication/question-yxipiixkrqxb)
+- [بوی معطر بدهید، معطر کنید نه اینکه عطر دیگری بگیرید](https://www.aparat.com/v/Oy5Jf)
+- life is like riding a bicycle, to keep your balance you must keep moving
+- [Learning is not linear](https://www.youtube.com/watch?v=TQXMl4GycD0)
+- وَإِذۡ تَأَذَّنَ رَبُّكُمۡ لَئِن شَكَرۡتُمۡ لَأَزِيدَنَّكُمۡۖ وَلَئِن كَفَرۡتُمۡ إِنَّ عَذَابِي لَشَدِيدٞ - سوره ابراهیم آیه 7 
+- آنچه بر خود مى پسندى براى مردم نيز بپسند و آنچه براى خود نمىپسندى براى آنها نيز نپسند! -- امام علی (ع)
+- [Loneliness is about you: I’m not lonely when I’m at the gym even though I’m training by myself, but I am lonely when I go to parties, and I’m a wallflower. Why? Because loneliness is about your engagement in that moment. So if you’re feeling lonely, close your computer and go for a run; it will get you back into the moment](https://www.sheenservices.com/news/8-brutal-truths-you-need-to-accept-before-30/)
+- [تو نیکویی کن و در دجله انداز *** که ایزد در بیابانت دهد باز](https://ganjoor.net/saadi/mavaez/masnaviat/sh41)
+- The greatest discovery of any generation is that a human being can alter his life by altering his attitude -- William James
+- فرض کن یکی از دوستای قدیمی ات رو 10 سال دیگه ببینی، وقتی که بخوای از گذشته ات توی این 10 سال تعریف کنی چی میگی؟ میگی که هر روز بی برنامه از خواب پا میشدم و توی اینترنت ول میچرخیدم و  بازیچه این و اون بودم؟ یا میگی که برنامه ریزی کردم، کارای مختلف امتحان کزدم، این تجربه هارو کسب کردم؟ دوست عزیزم، زندگی بی برنامه مثل سفر بدون مقصده - هر روز 86400 ثانیه خدا بهت هدیه میده، چیکارش میکنی؟ امیدوارم عاقلانه ازش استفاده کنی
+- [یک امروز است ما را نقد ایام *** بر او هم اعتمادی نیست تا شام](https://ganjoor.net/nezami/5ganj/khosro-shirin/sh29)
+- [و الاخره خیر و ابقی](https://quran.inoor.ir/fa/ayah/87/17/)
+- 一日之计在于晨- A day's planning is done at dawn[early morning].
+- We don’t have to be smarter than the rest. We have to be more disciplined than the rest -- Warren Buffett
+- Curiosity is more important than knowledge - Albert Einstein
+- [Day by day, what you choose, what you think, and what you do is who you become](https://www.beachbodyondemand.com/blog/self-discipline-quotes)
+- [ از خوى مردمان نادان اين است كه در هر حالى زود خشم مى گيرند. - امام علی ع](https://ahlolbait.com/article/5276/%D8%AE%D8%B4%D9%85-%D8%A7%D8%B2-%D9%86%D8%B8%D8%B1-%D8%A7%D8%AD%D8%A7%D8%AF%DB%8C%D8%AB)
+- [خلايق نان خورهاى خدايند . خداوند روزهاى آنها را ضمانت و خوراكشان را مقدّر كرده است .](https://ahlolbait.com/article/4545/%D8%B1%D9%88%D8%B2%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%AD%D8%A7%D8%AF%DB%8C%D8%AB#d)
+- [Success is a journey, not a destination. It means that what matters is not necessarily where you are at the end, but what you accomplish while you are trying along the way.](https://www.linkedin.com/pulse/20141110151738-301337375-have-you-ever-heard-that-success-is-a-journey-not-a-destination)
+- [life is what you choose it to be](https://web.archive.org/web/20211028132012/https://oliveremberton.com/2013/how-to-master-your-life/)
+- [Progress is impossible without change, and those who cannot change their minds cannot change anything - Bernard Shaw ](https://philosiblog.com/2013/11/14/progress-is-impossible-without-change-and-those-who-cannot-change-their-minds-cannot-change-anything/)
+- [زندگی ساختنی است،،،، نه ماندنی. بمان برای ساختن نساز برای ماندن](http://roboca96.blogfa.com/post/287)
+- if you judge people, you have no time to love them
+- حضرت محمد (ص) : محبت خدا بر کسی که خشمگین شود پس بردباری نماید واجب است.
+- اى فرزند آدم! غم و اندوهِ روزى را که نیامده بر آن روز که در آن هستى، تحمیل مکن؛ چراکه اگر آن روز، از عمرت باشد، خداوند روزىِ تو را در آن روز مى رساند و اگر نباشد، چرا اندوه آن را میخوری؟ - امام علی ع
 * [7 Must-Know Strategies to Learn Anything Faster](https://www.scotthyoung.com/blog/oakley/) 📚 { #learning }
 * [make learning your hobby, rather than pointless entertainment - hours lost watching sports/ TV shows,..](https://www.reddit.com/r/fatFIRE/comments/snoet1/what_advice_would_you_give_your_younger_self/)
 * [Technology begins by making old work easier, but then it requires that new work be better.](https://seths.blog/2022/12/attention-trust-and-gpt3/)
@@ -66,6 +95,7 @@ Some of them might be useful for you too.
 * [I felt that the music business was very empty, ... In the west, all the songs are about love and getting hurt, but there’s more to life than that](https://www.wearemin.co/blog/maher-zain-my-music-is-a-message-of-islam/)
 * [اصل حفظ نظام در کلام حاج قاسم سلیمانی](https://www.aparat.com/v/5MVpr) + [حفظ نظام واجب تر از نماز است](https://www.aparat.com/v/7vKy8)
 * [اسنپ و دیچی کالا کاسبان تحریم نیستند](https://vrgl.ir/dqBDP)
+* [Life is a game. This is your strategy guide](https://oliveremberton.com/2014/life-is-a-game-this-is-your-strategy-guide/)
 
 ### programming
 * [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️
@@ -109,37 +139,6 @@ Some of them might be useful for you too.
 * [software engineering - pressman]
 * [the magic of gratitude]
 * [The complete FUN TO IMAGINE with Richard Feynman](https://youtu.be/P1ww1IXRfTA)
-
-## Poems/Proverbs/Notes/Quotes
-- 千里之行始於足下 -The journey of a thousand miles begins with a single step.
-- 授人以鱼不如授人以渔 - If you give a man a fish, you feed him for a day. If you teach a man fishing, you feed him for a life.
-- [علم چندان که بیشتر خوانی **‌*‌ چون عمل در تو نیست نادانی](https://ganjoor.net/saadi/golestan/gbab8/sh3)
-- [In other words, the secret to happiness isn’t falling in love; it’s staying in love](https://www.theatlantic.com/family/archive/2021/02/falling-in-love-wont-make-you-happy/617989/)
-- [The man who asks a question is a fool for a minute, the man who does not ask is a fool for life](https://virgool.io/CE-SHAHED-publication/question-yxipiixkrqxb)
-- [بوی معطر بدهید، معطر کنید نه اینکه عطر دیگری بگیرید](https://www.aparat.com/v/Oy5Jf)
-- life is like riding a bicycle, to keep your balance you must keep moving
-- [Learning is not linear](https://www.youtube.com/watch?v=TQXMl4GycD0)
-- وَإِذۡ تَأَذَّنَ رَبُّكُمۡ لَئِن شَكَرۡتُمۡ لَأَزِيدَنَّكُمۡۖ وَلَئِن كَفَرۡتُمۡ إِنَّ عَذَابِي لَشَدِيدٞ - سوره ابراهیم آیه 7 
-- آنچه بر خود مى پسندى براى مردم نيز بپسند و آنچه براى خود نمىپسندى براى آنها نيز نپسند! -- امام علی (ع)
-- [Loneliness is about you: I’m not lonely when I’m at the gym even though I’m training by myself, but I am lonely when I go to parties, and I’m a wallflower. Why? Because loneliness is about your engagement in that moment. So if you’re feeling lonely, close your computer and go for a run; it will get you back into the moment](https://www.sheenservices.com/news/8-brutal-truths-you-need-to-accept-before-30/)
-- [تو نیکویی کن و در دجله انداز *** که ایزد در بیابانت دهد باز](https://ganjoor.net/saadi/mavaez/masnaviat/sh41)
-- The greatest discovery of any generation is that a human being can alter his life by altering his attitude -- William James
-- فرض کن یکی از دوستای قدیمی ات رو 10 سال دیگه ببینی، وقتی که بخوای از گذشته ات توی این 10 سال تعریف کنی چی میگی؟ میگی که هر روز بی برنامه از خواب پا میشدم و توی اینترنت ول میچرخیدم و  بازیچه این و اون بودم؟ یا میگی که برنامه ریزی کردم، کارای مختلف امتحان کزدم، این تجربه هارو کسب کردم؟ دوست عزیزم، زندگی بی برنامه مثل سفر بدون مقصده - هر روز 86400 ثانیه خدا بهت هدیه میده، چیکارش میکنی؟ امیدوارم عاقلانه ازش استفاده کنی
-- [یک امروز است ما را نقد ایام *** بر او هم اعتمادی نیست تا شام](https://ganjoor.net/nezami/5ganj/khosro-shirin/sh29)
-- [و الاخره خیر و ابقی](https://quran.inoor.ir/fa/ayah/87/17/)
-- 一日之计在于晨- A day's planning is done at dawn[early morning].
-- We don’t have to be smarter than the rest. We have to be more disciplined than the rest -- Warren Buffett
-- Curiosity is more important than knowledge - Albert Einstein
-- [Day by day, what you choose, what you think, and what you do is who you become](https://www.beachbodyondemand.com/blog/self-discipline-quotes)
-- [ از خوى مردمان نادان اين است كه در هر حالى زود خشم مى گيرند. - امام علی ع](https://ahlolbait.com/article/5276/%D8%AE%D8%B4%D9%85-%D8%A7%D8%B2-%D9%86%D8%B8%D8%B1-%D8%A7%D8%AD%D8%A7%D8%AF%DB%8C%D8%AB)
-- [خلايق نان خورهاى خدايند . خداوند روزهاى آنها را ضمانت و خوراكشان را مقدّر كرده است .](https://ahlolbait.com/article/4545/%D8%B1%D9%88%D8%B2%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%AD%D8%A7%D8%AF%DB%8C%D8%AB#d)
-- [Success is a journey, not a destination. It means that what matters is not necessarily where you are at the end, but what you accomplish while you are trying along the way.](https://www.linkedin.com/pulse/20141110151738-301337375-have-you-ever-heard-that-success-is-a-journey-not-a-destination)
-- [life is what you choose it to be](https://web.archive.org/web/20211028132012/https://oliveremberton.com/2013/how-to-master-your-life/)
-- [Progress is impossible without change, and those who cannot change their minds cannot change anything - Bernard Shaw ](https://philosiblog.com/2013/11/14/progress-is-impossible-without-change-and-those-who-cannot-change-their-minds-cannot-change-anything/)
-- [زندگی ساختنی است،،،، نه ماندنی. بمان برای ساختن نساز برای ماندن](http://roboca96.blogfa.com/post/287)
-- if you judge people, you have no time to love them
-- حضرت محمد (ص) : محبت خدا بر کسی که خشمگین شود پس بردباری نماید واجب است.
-- اى فرزند آدم! غم و اندوهِ روزى را که نیامده بر آن روز که در آن هستى، تحمیل مکن؛ چراکه اگر آن روز، از عمرت باشد، خداوند روزىِ تو را در آن روز مى رساند و اگر نباشد، چرا اندوه آن را میخوری؟ - امام علی ع
 
 ## Human is forgetful, He needs to remember himself ...
 - We sink or swim in our choices
