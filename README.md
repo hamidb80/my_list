@@ -168,6 +168,7 @@ Some of them might be useful for you too.
 ## Images
 ![two sons of an alcoholic father](./two-sons-of-an-alcoholic-father.webp)
 ![people are too comfortable to succeed](./too-comfortable.png)
+![we dont have to be smater than others](./smarter.png)
 ![progress is impossible without change](./progress-is-impossible-without-change.png)
 ![inch by inch its a clinch yard by yard its hard](./inch-by-inch-its-a-clinch-yard-by-yard-its-hard.jfif)
 ![be happy first](./be-happy-first.png)
