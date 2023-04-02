@@ -161,6 +161,7 @@ Some of them might be useful for you too.
 - [از دی که گذشت هیچ از او یاد مکن ** فردا که نیامده‌ست فریاد مکن ** بر نامده و گذشته بنیاد مکن ** حالی خوش باش و عمر بر باد مکن](https://ganjoor.net/khayyam/robaee/sh136)
 - [self study is the best form of education / don't limit yourself just to the damn teacher, the lessons are not unique, so you can learn it from other resources too](https://www.scotthyoung.com/blog/2017/03/16/how-einstein-learned-physics/)
 - track what you're after
+- The important thing about a problem is not its solution, but the strength we gain in finding the solution
 - I feared pain until I learned it's necessary for growth
 - Time will pass anyway...
 - make room for your activities
