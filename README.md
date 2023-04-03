@@ -96,6 +96,7 @@ Some of them might be useful for you too.
 * [اصل حفظ نظام در کلام حاج قاسم سلیمانی](https://www.aparat.com/v/5MVpr) + [حفظ نظام واجب تر از نماز است](https://www.aparat.com/v/7vKy8)
 * [اسنپ و دیچی کالا کاسبان تحریم نیستند](https://vrgl.ir/dqBDP)
 * [Life is a game. This is your strategy guide](https://oliveremberton.com/2014/life-is-a-game-this-is-your-strategy-guide/)
+* [A Construction Worker Who Want To Marry A Princess](https://www.youtube.com/watch?v=qNEKkmrOSyg)
 
 ### programming
 * [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️
