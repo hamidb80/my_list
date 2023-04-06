@@ -98,6 +98,7 @@ Some of them might be useful for you too.
 * [Life is a game. This is your strategy guide](https://oliveremberton.com/2014/life-is-a-game-this-is-your-strategy-guide/)
 * [A Construction Worker Who Want To Marry A Princess](https://www.youtube.com/watch?v=qNEKkmrOSyg)
 * [با خدا باش پادشاهی کن---بی خدا باش هرچه خواهی کن](https://movafaghiat1390.blogsky.com/1389/04/01/post-27/)
+* [Be harder on yourself (or someone else will)](https://medium.com/swlh/be-harder-on-yourself-or-someone-else-will-d25a2fd94cf2)
 
 ### programming
 * [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️
