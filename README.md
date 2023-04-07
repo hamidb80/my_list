@@ -100,6 +100,7 @@ Some of them might be useful for you too.
 * [با خدا باش پادشاهی کن---بی خدا باش هرچه خواهی کن](https://movafaghiat1390.blogsky.com/1389/04/01/post-27/)
 * [Be harder on yourself (or someone else will)](https://medium.com/swlh/be-harder-on-yourself-or-someone-else-will-d25a2fd94cf2) ⭐⭐
 * [I think if you stop learning for too long about your religion, your more likely to leave it](https://www.youtube.com/watch?v=92r4X9kYfzA&ab_channel=EternalPassenger)
+* [Former Anti-Islam Politician Became Muslim! "before I had a lot of money but felt empty"](https://www.youtube.com/watch?v=iEo5e5g1IVI&ab_channel=TowardsEternity)
 
 ### programming
 * [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️
