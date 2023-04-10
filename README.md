@@ -146,6 +146,7 @@ Some of them might be useful for you too.
 * [the magic of gratitude]
 * [The complete FUN TO IMAGINE with Richard Feynman](https://youtu.be/P1ww1IXRfTA)
 * [learn you a haskell](http://learnyouahaskell.com/)
+* [How Russell’s paradox showed that Cantor’s set theoretical ideas were fatally flawed](https://www.jamesrmeyer.com/set-theory/set-theory-2-russells-paradox.php)
 
 ## Human is forgetful, He needs to remember himself ...
 - We sink or swim in our choices
