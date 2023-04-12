@@ -101,6 +101,7 @@ Some of them might be useful for you too.
 * [Be harder on yourself (or someone else will)](https://medium.com/swlh/be-harder-on-yourself-or-someone-else-will-d25a2fd94cf2) ⭐⭐
 * [I think if you stop learning for too long about your religion, your more likely to leave it](https://www.youtube.com/watch?v=92r4X9kYfzA&ab_channel=EternalPassenger)
 * [Former Anti-Islam Politician Became Muslim! "before I had a lot of money but felt empty"](https://www.youtube.com/watch?v=iEo5e5g1IVI&ab_channel=TowardsEternity)
+* [اعتقاد یا اعتماد؟](https://www.aparat.com/v/lHGEc) ⭐
 
 ### programming
 * [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️
@@ -136,6 +137,7 @@ Some of them might be useful for you too.
 * [Competitive Programming !== Real World Programming](https://www.freecodecamp.org/news/mythbusting-competitive-programming/)
 * [Bing AI can't be trusted](https://dkb.blog/p/bing-ai-cant-be-trusted) + [LLM failure archive (ChatGPT and beyond)
 ](https://github.com/giuven95/chatgpt-failures)
+* [How Russell’s paradox showed that Cantor’s set theoretical ideas were fatally flawed](https://www.jamesrmeyer.com/set-theory/set-theory-2-russells-paradox.php)
 
 ## TODO
 * [How to Win Friends and Influence People] { #life #communication } 📚
@@ -146,7 +148,7 @@ Some of them might be useful for you too.
 * [the magic of gratitude]
 * [The complete FUN TO IMAGINE with Richard Feynman](https://youtu.be/P1ww1IXRfTA)
 * [learn you a haskell](http://learnyouahaskell.com/)
-* [How Russell’s paradox showed that Cantor’s set theoretical ideas were fatally flawed](https://www.jamesrmeyer.com/set-theory/set-theory-2-russells-paradox.php)
+
 
 ## Human is forgetful, He needs to remember himself ...
 - We sink or swim in our choices
