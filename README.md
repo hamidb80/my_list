@@ -183,6 +183,7 @@ Some of them might be useful for you too.
 ![people are too comfortable to succeed](./too-comfortable.png)
 ![we dont have to be smater than others](./smarter.png)
 ![there's no "right time", there is just "time" and what you do with it](./right-time.jpg)
+![don't watch the clock, do what it does, keep going...](https://www.setquotes.com/wp-content/uploads/2021/12/Dont-watch-the-clock-do-what-it-does.-Keep-going.-Sam-Levenson.png)
 ![progress is impossible without change](./progress-is-impossible-without-change.png)
 ![inch by inch its a clinch yard by yard its hard](./inch-by-inch-its-a-clinch-yard-by-yard-its-hard.jfif)
 ![be happy first](./be-happy-first.png)
