@@ -18,6 +18,7 @@ Some of them might be useful for you too.
 * [narimiran](https://narimiran.github.io/)
 * [IBM blog](https://www.ibm.com/blog/)
 * [Google Developers Blog](https://developers.googleblog.com/)
+* [Discord devlog](https://discord.com/category/engineering)
 
 ### Life
 * [Grit: the power of passion and perseverance](https://www.youtube.com/watch?v=H14bBuluwB8) 🎞️ { #TED } 
