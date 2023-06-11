@@ -108,6 +108,7 @@ Some of them might be useful for you too.
 * [اعتقاد یا اعتماد؟](https://www.aparat.com/v/lHGEc) 
 ⭐
 * [HOWTO: Avoid temptation -- why avoiding temptation is harder than you think](https://matt.might.net/articles/how-to-avoid-temptation/)
+* [why chinese students are smarter than you](https://www.youtube.com/shorts/7qdgj_i-Tso)
 
 ### programming
 * [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️
