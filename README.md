@@ -19,7 +19,8 @@ Some of them might be useful for you too.
 * [IBM blog](https://www.ibm.com/blog/)
 * [Google Developers Blog](https://developers.googleblog.com/)
 * [Discord devlog](https://discord.com/category/engineering)
-* [quitesimple: linux & security blog](https://quitesimple.org/page/index)
+* [quite imple: linux & security blog](https://quitesimple.org/page/index)
+* [Languages ∧ Architecture](https://verdagon.dev/home)
 
 ### Life
 * [Grit: the power of passion and perseverance](https://www.youtube.com/watch?v=H14bBuluwB8) 🎞️ { #TED } 
