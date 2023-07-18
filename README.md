@@ -146,6 +146,7 @@ Some of them might be useful for you too.
 * [Bing AI can't be trusted](https://dkb.blog/p/bing-ai-cant-be-trusted) + [LLM failure archive (ChatGPT and beyond)
 ](https://github.com/giuven95/chatgpt-failures)
 * [How Russell’s paradox showed that Cantor’s set theoretical ideas were fatally flawed](https://www.jamesrmeyer.com/set-theory/set-theory-2-russells-paradox.php)
+* [going fast is about doing less](https://www.youtube.com/watch?v=5rb0vvJ7NCY)
 
 ## TODO
 * [How to Win Friends and Influence People] { #life #communication } 📚
