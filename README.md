@@ -111,6 +111,7 @@ Some of them might be useful for you too.
 * [HOWTO: Avoid temptation -- why avoiding temptation is harder than you think](https://matt.might.net/articles/how-to-avoid-temptation/)
 * [why chinese students are smarter than you](https://www.youtube.com/shorts/7qdgj_i-Tso)
 * [4 types of people Allah loves most I Nouman Ali Khan 2019](https://www.youtube.com/watch?v=2hmDc0AFW2Y&ab_channel=SHORTIMAANBOOSTERS)
+* [SAY ONE WORD, ALLAH STOPS LAZINESS 😪](https://www.youtube.com/watch?v=zvb1c3ElAuM)
 
 ### programming
 * [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️
