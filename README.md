@@ -150,6 +150,7 @@ Some of them might be useful for you too.
 * [How Russell’s paradox showed that Cantor’s set theoretical ideas were fatally flawed](https://www.jamesrmeyer.com/set-theory/set-theory-2-russells-paradox.php)
 * [going fast is about doing less](https://www.youtube.com/watch?v=5rb0vvJ7NCY)
 * [Why Clojure is Dense](http://xahlee.info/comp/clojure_is_hard_to_learn.html)
+* [data formats](https://paulbourke.net/dataformats/)
 
 ## TODO
 * [How to Win Friends and Influence People] { #life #communication } 📚
