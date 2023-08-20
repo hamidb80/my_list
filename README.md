@@ -198,4 +198,5 @@ Some of them might be useful for you too.
 ![progress is impossible without change](./progress-is-impossible-without-change.png)
 ![inch by inch its a clinch yard by yard its hard](./inch-by-inch-its-a-clinch-yard-by-yard-its-hard.jfif)
 ![be happy first](./be-happy-first.png)
+![لاحول و لا قوه الا بالله](https://www.aftana.ir/fa/doc/news/10977/%D8%B3%D9%88%D8%A6%D8%AF%DB%8C-%D9%87%D8%A7-%D8%B3%D9%87%D8%A7%D9%85-%D9%85%D8%A7%D9%84%DA%A9-%D8%AF%DB%8C%D8%AC%DB%8C-%DA%A9%D8%A7%D9%84%D8%A7-%D8%AE%D8%B1%DB%8C%D8%AF%D9%86%D8%AF)
 ![make a plan](./make-a-plan.jpg)
