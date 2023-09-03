@@ -200,4 +200,7 @@ Some of them might be useful for you too.
 ![inch by inch its a clinch yard by yard its hard](./inch-by-inch-its-a-clinch-yard-by-yard-its-hard.jfif)
 ![be happy first](./be-happy-first.png)
 ![لاحول و لا قوه الا ](./la-howl.png)
+![in God we trust](./Screenshot_20230831-194119.jpg)
+![time vsfuture vs money vs God](./Screenshot_20230831-195032.jpg)
+
 ![make a plan](./make-a-plan.jpg)
