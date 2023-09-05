@@ -152,6 +152,7 @@ Some of them might be useful for you too.
 * [Why Clojure is Dense](http://xahlee.info/comp/clojure_is_hard_to_learn.html)
 * [data formats](https://paulbourke.net/dataformats/)
 * [Expert to Expert: Rich Hickey and Brian Beckman - Inside Clojure](https://www.youtube.com/watch?v=wASCH_gPnDw)
+* [Code isn’t art that you print out and put in a museum. Code is executed. It is observed and debugged](https://naildrivin5.com/blog/2019/07/25/four-better-rules-for-software-design.html)
 
 ## TODO
 * [How to Win Friends and Influence People] { #life #communication } 📚
