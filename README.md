@@ -164,7 +164,7 @@ Some of them might be useful for you too.
 * [the magic of gratitude]
 * [The complete FUN TO IMAGINE with Richard Feynman](https://youtu.be/P1ww1IXRfTA)
 * [learn you a haskell](http://learnyouahaskell.com/)
-
+* [](https://nim-lang.org/docs/manual.html)
 
 ## Human is forgetful, He needs to remember himself ...
 - We sink or swim in our choices
