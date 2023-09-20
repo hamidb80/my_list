@@ -156,6 +156,8 @@ Some of them might be useful for you too.
 * [Code isn’t art that you print out and put in a museum. Code is executed. It is observed and debugged](https://naildrivin5.com/blog/2019/07/25/four-better-rules-for-software-design.html)
 * [Unlearn OOP: Deleted Scenes, Misconceptions, Unspoken Truths](https://speakerdeck.com/lemiorhan/unlearn-oop-deleted-scenes-misconceptions-unspoken-truths?slide=25)
 * ["Complexity" seems to be a lot like "energy": you can transfer it from the end-user to one/some of the other players, but the total amount seems to remain pretty much constant for a given task.](https://nim-lang.org/docs/manual.html)
+* [Stop trying to make async/await happen
+](https://danlevy.net/stop-trying-to-make-async-await-happen/)
 
 ## TODO
 * [How to Win Friends and Influence People] { #life #communication } 📚
