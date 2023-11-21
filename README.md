@@ -21,6 +21,7 @@ Some of them might be useful for you too.
 * [Discord devlog](https://discord.com/category/engineering)
 * [quite imple: linux & security blog](https://quitesimple.org/page/index)
 * [Languages ∧ Architecture](https://verdagon.dev/home)
+* [Is ORM still an anti-pattern?](https://news.ycombinator.com/item?id=36497613)
 
 ### Life
 * [Grit: the power of passion and perseverance](https://www.youtube.com/watch?v=H14bBuluwB8) 🎞️ { #TED } 
