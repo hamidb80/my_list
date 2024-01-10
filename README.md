@@ -22,6 +22,7 @@ Some of them might be useful for you too.
 * [quite imple: linux & security blog](https://quitesimple.org/page/index)
 * [Languages ∧ Architecture](https://verdagon.dev/home)
 * [Is ORM still an anti-pattern?](https://news.ycombinator.com/item?id=36497613)
+* [popular API s](https://serpapi.com/)
 
 ### Life
 * [Grit: the power of passion and perseverance](https://www.youtube.com/watch?v=H14bBuluwB8) 🎞️ { #TED } 
