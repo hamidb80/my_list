@@ -160,6 +160,7 @@ Some of them might be useful for you too.
 * ["Complexity" seems to be a lot like "energy": you can transfer it from the end-user to one/some of the other players, but the total amount seems to remain pretty much constant for a given task.](https://nim-lang.org/docs/manual.html)
 * [Stop trying to make async/await happen
 ](https://danlevy.net/stop-trying-to-make-async-await-happen/)
+* [Functional Programming Isn't the Answer](https://degoes.net/articles/fp-is-not-the-answer)
 
 ## TODO
 * [How to Win Friends and Influence People] { #life #communication } 📚
