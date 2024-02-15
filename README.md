@@ -24,6 +24,7 @@ Some of them might be useful for you too.
 * [Is ORM still an anti-pattern?](https://news.ycombinator.com/item?id=36497613)
 * [popular API s](https://serpapi.com/)
 * [Lisp vs Haskell](https://markkarpov.com/post/lisp-and-haskell)
+* [OOD and the Fetish of Reusability](https://medium.com/axial-engineering/ood-and-the-fetish-of-reusability-b392bd29ea37)
 
 ### Life
 * [Grit: the power of passion and perseverance](https://www.youtube.com/watch?v=H14bBuluwB8) 🎞️ { #TED } 
