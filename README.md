@@ -165,6 +165,7 @@ Some of them might be useful for you too.
 * [Functional Programming Isn't the Answer](https://degoes.net/articles/fp-is-not-the-answer)
 * [My Love-Hate Relationship With Clojure](https://blarg.ca/2022/08/23/my-love-hate-relationship-with-clojure)
 * [Have Clojure UI libraries taken the wrong pass?](https://thomascothran.tech/2023/11/clojure-uis-hypermedia-and-rpc-1/)
+* [Rich Hickey Already Answered That!](https://gist.github.com/reborg/dc8b0c96c397a56668905e2767fd697f)
 
 ## TODO
 * [How to Win Friends and Influence People] { #life #communication } 📚
@@ -175,7 +176,7 @@ Some of them might be useful for you too.
 * [the magic of gratitude]
 * [The complete FUN TO IMAGINE with Richard Feynman](https://youtu.be/P1ww1IXRfTA)
 * [learn you a haskell](http://learnyouahaskell.com/)
-* [](https://nim-lang.org/docs/manual.html)
+
 
 ## Human is forgetful, He needs to remember himself ...
 - We sink or swim in our choices
