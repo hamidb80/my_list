@@ -164,6 +164,7 @@ Some of them might be useful for you too.
 ](https://danlevy.net/stop-trying-to-make-async-await-happen/)
 * [Functional Programming Isn't the Answer](https://degoes.net/articles/fp-is-not-the-answer)
 * [My Love-Hate Relationship With Clojure](https://blarg.ca/2022/08/23/my-love-hate-relationship-with-clojure)
+* [Have Clojure UI libraries taken the wrong pass?](https://thomascothran.tech/2023/11/clojure-uis-hypermedia-and-rpc-1/)
 
 ## TODO
 * [How to Win Friends and Influence People] { #life #communication } 📚
