@@ -189,6 +189,8 @@ Some of them might be useful for you too.
 - [put important things first](https://www.youtube.com/watch?v=SqGRnlXplx0) 🎞️
 - start slow, take it easy at first 🔥
 - be thankful every day and start a new life
+  If you want everything to be familiar, you'll never learn anything new. - Rich Hickey
+  
 - واسه خودت دل مشغولی درست نکن - باعث میشه نتونی تمرکز کنی
 - هر وقت میخواستی ی کاری بکنی بخاطر اینکه مطمئن بشی حوات پرت کارای دیگه نشده، اینو از خودت بپرس: از کجا آمده ام آمدنم بهر چه بود؟ ( مولانا )
 - Slow progress is better than nothing at all!! - chinese proverb
