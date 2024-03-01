@@ -166,6 +166,7 @@ Some of them might be useful for you too.
 * [My Love-Hate Relationship With Clojure](https://blarg.ca/2022/08/23/my-love-hate-relationship-with-clojure)
 * [Have Clojure UI libraries taken the wrong pass?](https://thomascothran.tech/2023/11/clojure-uis-hypermedia-and-rpc-1/)
 * [Rich Hickey Already Answered That!](https://gist.github.com/reborg/dc8b0c96c397a56668905e2767fd697f)
+* [Paul Graham Quotes](https://paulgraham.com/quo.html)
 
 ## TODO
 * [How to Win Friends and Influence People] { #life #communication } 📚
