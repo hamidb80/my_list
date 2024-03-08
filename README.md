@@ -167,6 +167,7 @@ Some of them might be useful for you too.
 * [Have Clojure UI libraries taken the wrong pass?](https://thomascothran.tech/2023/11/clojure-uis-hypermedia-and-rpc-1/)
 * [Rich Hickey Already Answered That!](https://gist.github.com/reborg/dc8b0c96c397a56668905e2767fd697f)
 * [Paul Graham Quotes](https://paulgraham.com/quo.html)
+* [Why Turtl Switched From CL to Js](https://lisp-journey.gitlab.io/blog/why-turtl-switched-from-lisp-to-js/)
 
 ## TODO
 * [How to Win Friends and Influence People] { #life #communication } 📚
