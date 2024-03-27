@@ -25,6 +25,7 @@ Some of them might be useful for you too.
 * [popular API s](https://serpapi.com/)
 * [Lisp vs Haskell](https://markkarpov.com/post/lisp-and-haskell)
 * [OOD and the Fetish of Reusability](https://medium.com/axial-engineering/ood-and-the-fetish-of-reusability-b392bd29ea37)
+* [kill the newsletter](https://kill-the-newsletter.com/)
 
 ### Life
 * [Grit: the power of passion and perseverance](https://www.youtube.com/watch?v=H14bBuluwB8) 🎞️ { #TED } 
