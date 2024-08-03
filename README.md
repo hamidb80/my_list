@@ -120,6 +120,7 @@ Some of them might be useful for you too.
 * [Stop Trying to Understand Math, Do THIS Instead](https://www.youtube.com/watch?v=lt1nUfskq9E&ab_channel=TheMathSorcerer)
 
 ### programming
+* [Diseconomies of Scale and Lines of Code](https://blog.codinghorror.com/diseconomies-of-scale-and-lines-of-code/)
 * [nothing is something](https://www.youtube.com/watch?v=OMPfEXIlTVE) 🎞️
 * [The compiler will optimize that away](https://blog.royalsloth.eu/posts/the-compiler-will-optimize-that-away/) 📰 
 * [The programming language of your dreams](https://ferale.art/article/the-programming-language-of-your-dreams-part-1) 📰 
