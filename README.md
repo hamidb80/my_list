@@ -170,6 +170,8 @@ Some of them might be useful for you too.
 * [Rich Hickey Already Answered That!](https://gist.github.com/reborg/dc8b0c96c397a56668905e2767fd697f)
 * [Paul Graham Quotes](https://paulgraham.com/quo.html)
 * [Why Turtl Switched From CL to Js](https://lisp-journey.gitlab.io/blog/why-turtl-switched-from-lisp-to-js/)
+* [Your templating engine sucks and everything you have ever written is spaghetti code](www.workingsoftware.com.au/page/Your_templating_engine_sucks_and_everything_you_have_ever_written_is_spaghetti_code_yes_you)
+* [https://joshondesign.com/2019/06/28/markdown_vs_html](I’m rewriting my book in HTML instead of Markdown. Here’s why.)
 
 ## TODO
 * [How to Win Friends and Influence People] { #life #communication } 📚
