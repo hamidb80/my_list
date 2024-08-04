@@ -149,36 +149,35 @@ Some of them might be useful for you too.
 * [Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full) { #AI } 📰
 * [In other words, Nim beats python at python's own strengths](https://news.ycombinator.com/item?id=9050114) + [I learned 7 different programming languages so you don't have to](https://mode80.github.io/7-langs-in-12-months.html) 📰
 * [Competitive Programming !== Real World Programming](https://www.freecodecamp.org/news/mythbusting-competitive-programming/)
-* [Bing AI can't be trusted](https://dkb.blog/p/bing-ai-cant-be-trusted) + [LLM failure archive (ChatGPT and beyond)
 ](https://github.com/giuven95/chatgpt-failures)
-* [How Russell’s paradox showed that Cantor’s set theoretical ideas were fatally flawed](https://www.jamesrmeyer.com/set-theory/set-theory-2-russells-paradox.php)
-* [going fast is about doing less](https://www.youtube.com/watch?v=5rb0vvJ7NCY)
-* [Why Clojure is Dense](http://xahlee.info/comp/clojure_is_hard_to_learn.html)
-* [data formats](https://paulbourke.net/dataformats/)
-* [Expert to Expert: Rich Hickey and Brian Beckman - Inside Clojure](https://www.youtube.com/watch?v=wASCH_gPnDw)
-* [Code isn’t art that you print out and put in a museum. Code is executed. It is observed and debugged](https://naildrivin5.com/blog/2019/07/25/four-better-rules-for-software-design.html)
-* [Unlearn OOP: Deleted Scenes, Misconceptions, Unspoken Truths](https://speakerdeck.com/lemiorhan/unlearn-oop-deleted-scenes-misconceptions-unspoken-truths?slide=25)
-* ["Complexity" seems to be a lot like "energy": you can transfer it from the end-user to one/some of the other players, but the total amount seems to remain pretty much constant for a given task.](https://nim-lang.org/docs/manual.html)
+* [How Russell’s paradox showed that Cantor’s set theoretical ideas were fatally flawed](https://www.jamesrmeyer.com/set-theory/set-theory-2-russells-paradox.php) 📰
+* [going fast is about doing less](https://www.youtube.com/watch?v=5rb0vvJ7NCY) 📰
+* [Why Clojure is Dense](http://xahlee.info/comp/clojure_is_hard_to_learn.html) 📰
+* [data formats](https://paulbourke.net/dataformats/) 📰
+* [Expert to Expert: Rich Hickey and Brian Beckman - Inside Clojure](https://www.youtube.com/watch?v=wASCH_gPnDw) 📰
+* [Code isn’t art that you print out and put in a museum. Code is executed. It is observed and debugged](https://naildrivin5.com/blog/2019/07/25/four-better-rules-for-software-design.html) 📰
+* [Unlearn OOP: Deleted Scenes, Misconceptions, Unspoken Truths](https://speakerdeck.com/lemiorhan/unlearn-oop-deleted-scenes-misconceptions-unspoken-truths?slide=25) 📰
+* ["Complexity" seems to be a lot like "energy": you can transfer it from the end-user to one/some of the other players, but the total amount seems to remain pretty much constant for a given task.](https://nim-lang.org/docs/manual.html) 📰
 * [Stop trying to make async/await happen
-](https://danlevy.net/stop-trying-to-make-async-await-happen/)
-* [Functional Programming Isn't the Answer](https://degoes.net/articles/fp-is-not-the-answer)
-* [My Love-Hate Relationship With Clojure](https://blarg.ca/2022/08/23/my-love-hate-relationship-with-clojure)
-* [Have Clojure UI libraries taken the wrong pass?](https://thomascothran.tech/2023/11/clojure-uis-hypermedia-and-rpc-1/)
-* [Rich Hickey Already Answered That!](https://gist.github.com/reborg/dc8b0c96c397a56668905e2767fd697f)
-* [Paul Graham Quotes](https://paulgraham.com/quo.html)
-* [Why Turtl Switched From CL to Js](https://lisp-journey.gitlab.io/blog/why-turtl-switched-from-lisp-to-js/)
-* [Your templating engine sucks and everything you have ever written is spaghetti code](www.workingsoftware.com.au/page/Your_templating_engine_sucks_and_everything_you_have_ever_written_is_spaghetti_code_yes_you)
-* [I’m rewriting my book in HTML instead of Markdown. Here’s why.](https://joshondesign.com/2019/06/28/markdown_vs_html)
+](https://danlevy.net/stop-trying-to-make-async-await-happen/) 📰
+* [Functional Programming Isn't the Answer](https://degoes.net/articles/fp-is-not-the-answer) 📰
+* [My Love-Hate Relationship With Clojure](https://blarg.ca/2022/08/23/my-love-hate-relationship-with-clojure) 📰
+* [Have Clojure UI libraries taken the wrong pass?](https://thomascothran.tech/2023/11/clojure-uis-hypermedia-and-rpc-1/) 📰
+* [Rich Hickey Already Answered That!](https://gist.github.com/reborg/dc8b0c96c397a56668905e2767fd697f) 📰
+* [Paul Graham Quotes](https://paulgraham.com/quo.html) 📰
+* [Why Turtl Switched From CL to Js](https://lisp-journey.gitlab.io/blog/why-turtl-switched-from-lisp-to-js/) 📰
+* [Your templating engine sucks and everything you have ever written is spaghetti code](www.workingsoftware.com.au/page/Your_templating_engine_sucks_and_everything_you_have_ever_written_is_spaghetti_code_yes_you) 📰
+* [I’m rewriting my book in HTML instead of Markdown. Here’s why.](https://joshondesign.com/2019/06/28/markdown_vs_html) 📰
+* [https://hypermedia.systems/](https://hypermedia.systems/).📚
 
 ## TODO
 * [How to Win Friends and Influence People] { #life #communication } 📚
 * [Interpretation](http://www.garlikov.com/Interpretation.html) 📰
 * [the POWER of Understanding PEOPLE ] 📚 
 * [bezier curve in computer graphics](https://pomax.github.io/bezierinfo/) 📰
-* [software engineering - pressman]
-* [the magic of gratitude]
-* [The complete FUN TO IMAGINE with Richard Feynman](https://youtu.be/P1ww1IXRfTA)
-* [learn you a haskell](http://learnyouahaskell.com/)
+* [software engineering - pressman] 📚
+* [the magic of gratitude] 📚
+* [The complete FUN TO IMAGINE with Richard Feynman](https://youtu.be/P1ww1IXRfTA) 📚
 
 ## Images
 ![two sons of an alcoholic father](./two-sons-of-an-alcoholic-father.webp)
