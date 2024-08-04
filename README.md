@@ -52,9 +52,7 @@ Some of them might be useful for you too.
 * [Stop Procrastinating: A Simple Guide to Hacking Laziness, Building Self Discipline, and Overcoming Procrastination](https://g.co/kgs/9Xu2N1) 📚 ⭐ + [finish What You Start] 📚 ⭐
 * [Why So Many CEOs Are Engineers](https://www.youtube.com/watch?v=BEbVddOm2X8) 🎞️ ⭐
 * [What is more important than time? ](https://www.quora.com/What-is-more-important-than-time)
-* [دل مشغولی دنیا](http://player.iranseda.ir/islam-player/?g=371613&w=45&VALID=TRUE) 🎵
 * [مستند دیوانگی :: رتبه 2 کنکور ورودی 97 به کامپیوتر دانشگاه شریف میرود اما...](https://telewebion.com/episode/0x28f5a92)
-* [زندگی تلخه ولی چرا همینجا بمونی؟ نمی ارزه یکم سختی بدی ولی پیشرفت کنی؟](https://virgool.io/@niethanx/%D8%A7%D9%81%D8%B3%D8%A7%D9%86%D9%87%D9%87%D8%A7%DB%8C-%D8%A7%D8%B1%D8%B4%D8%AF-%D9%86%D8%B1%D9%85%D8%A7%D9%81%D8%B2%D8%A7%D8%B1-xv2bsyyeljhl)
 * [Why Braintraining Games are Silly](https://www.scotthyoung.com/blog/2014/04/01/why-braintrainin/) 📰 
 * [The problem isn’t that life is unfair – it’s your broken idea of fairness](https://oliveremberton.com/2014/the-problem-isnt-that-life-is-unfair-its-your-broken-idea-of-fairness/)  📰 
 * [You Don’t Find Your Purpose — You Build It](https://hbr.org/2017/10/you-dont-find-your-purpose-you-build-it#:~:text=In%20achieving%20professional%20purpose%2C%20most,work%20can%20possess%20remarkable%20purpose.)
@@ -74,7 +72,6 @@ Some of them might be useful for you too.
 - [Loneliness is about you: I’m not lonely when I’m at the gym even though I’m training by myself, but I am lonely when I go to parties, and I’m a wallflower. Why? Because loneliness is about your engagement in that moment. So if you’re feeling lonely, close your computer and go for a run; it will get you back into the moment](https://www.sheenservices.com/news/8-brutal-truths-you-need-to-accept-before-30/)
 - [تو نیکویی کن و در دجله انداز *** که ایزد در بیابانت دهد باز](https://ganjoor.net/saadi/mavaez/masnaviat/sh41)
 - The greatest discovery of any generation is that a human being can alter his life by altering his attitude -- William James
-- فرض کن یکی از دوستای قدیمی ات رو 10 سال دیگه ببینی، وقتی که بخوای از گذشته ات توی این 10 سال تعریف کنی چی میگی؟ میگی که هر روز بی برنامه از خواب پا میشدم و توی اینترنت ول میچرخیدم و  بازیچه این و اون بودم؟ یا میگی که برنامه ریزی کردم، کارای مختلف امتحان کزدم، این تجربه هارو کسب کردم؟ دوست عزیزم، زندگی بی برنامه مثل سفر بدون مقصده - هر روز 86400 ثانیه خدا بهت هدیه میده، چیکارش میکنی؟ امیدوارم عاقلانه ازش استفاده کنی
 - [یک امروز است ما را نقد ایام *** بر او هم اعتمادی نیست تا شام](https://ganjoor.net/nezami/5ganj/khosro-shirin/sh29)
 - [و الاخره خیر و ابقی](https://quran.inoor.ir/fa/ayah/87/17/)
 - 一日之计在于晨- A day's planning is done at dawn[early morning].
@@ -171,7 +168,7 @@ Some of them might be useful for you too.
 * [Paul Graham Quotes](https://paulgraham.com/quo.html)
 * [Why Turtl Switched From CL to Js](https://lisp-journey.gitlab.io/blog/why-turtl-switched-from-lisp-to-js/)
 * [Your templating engine sucks and everything you have ever written is spaghetti code](www.workingsoftware.com.au/page/Your_templating_engine_sucks_and_everything_you_have_ever_written_is_spaghetti_code_yes_you)
-* [https://joshondesign.com/2019/06/28/markdown_vs_html](I’m rewriting my book in HTML instead of Markdown. Here’s why.)
+* [I’m rewriting my book in HTML instead of Markdown. Here’s why.](https://joshondesign.com/2019/06/28/markdown_vs_html)
 
 ## TODO
 * [How to Win Friends and Influence People] { #life #communication } 📚
@@ -182,35 +179,6 @@ Some of them might be useful for you too.
 * [the magic of gratitude]
 * [The complete FUN TO IMAGINE with Richard Feynman](https://youtu.be/P1ww1IXRfTA)
 * [learn you a haskell](http://learnyouahaskell.com/)
-
-
-## Human is forgetful, He needs to remember himself ...
-- We sink or swim in our choices
-- if you start on fire, you'll keep on fire 
-- Lunch Is for Losers 🔥
-- 万事开头难 - All things are difficult at the start
-- The brain DISMISSes unfamiliars
-- FOCUS - prepare your mood 
-- pumping your heart for 10 minutes gives you a better day - [simple aerobic men](https://www.youtube.com/watch?v=7o39NrSwfb8) 🔥
-- [put important things first](https://www.youtube.com/watch?v=SqGRnlXplx0) 🎞️
-- start slow, take it easy at first 🔥
-- be thankful every day and start a new life
-  If you want everything to be familiar, you'll never learn anything new. - Rich Hickey
-  
-- واسه خودت دل مشغولی درست نکن - باعث میشه نتونی تمرکز کنی
-- هر وقت میخواستی ی کاری بکنی بخاطر اینکه مطمئن بشی حوات پرت کارای دیگه نشده، اینو از خودت بپرس: از کجا آمده ام آمدنم بهر چه بود؟ ( مولانا )
-- Slow progress is better than nothing at all!! - chinese proverb
-- attention game on morning | to wakeup brain 🔥
-- create a Do-It-Later-If-I-Had-Time list
-- [لَئِن شَكَرۡتُمۡ لَأَزِيدَنَّكُمۡۖ وَلَئِن كَفَرۡتُمۡ إِنَّ عَذَابِي لَشَدِيد](https://hadisgraph.com/wp-content/uploads/photo_2018-04-06_17-11-02.jpg)
-- Self-discipline starts with the mastery of your thoughts. If you don’t control what you think, you can’t control what you do
-- [از دی که گذشت هیچ از او یاد مکن ** فردا که نیامده‌ست فریاد مکن ** بر نامده و گذشته بنیاد مکن ** حالی خوش باش و عمر بر باد مکن](https://ganjoor.net/khayyam/robaee/sh136)
-- [self study is the best form of education / don't limit yourself just to the damn teacher, the lessons are not unique, so you can learn it from other resources too](https://www.scotthyoung.com/blog/2017/03/16/how-einstein-learned-physics/)
-- track what you're after
-- The important thing about a problem is not its solution, but the strength we gain in finding the solution
-- I feared pain until I learned it's necessary for growth
-- Time will pass anyway...
-- make room for your activities
 
 ## Images
 ![two sons of an alcoholic father](./two-sons-of-an-alcoholic-father.webp)
